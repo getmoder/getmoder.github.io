@@ -152,7 +152,7 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/picture2-1209x680.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/picture22-1024x576.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
