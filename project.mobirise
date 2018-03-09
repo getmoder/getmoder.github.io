@@ -62,7 +62,7 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": 0.75,
@@ -70,7 +70,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extToggle1-24\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://getmoder.exchange\">GETModer Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -236,7 +236,9 @@
               "text-align": "left"
             },
             ".lead DIV": {
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           },
           "_params": {
@@ -259,7 +261,7 @@
             "overlayOpacity": 0.5
           },
           "title": "<span style=\"font-weight: normal;\">GETModer Ecosystem consists of 2 crypto products</span>",
-          "text": "<p><b>GETModer Ecosystem</b></p><p>In its historical development, GETModer</p><p>has been identifying and successfully solving inefficiencies on lending markets by creating innovative and convenient financing solutions.\n</p><p>\n</p><p>By applying blockchain technology, GTMR Token is GETModer's answer to solving the lack of financing for the new digital economy.</p><p><b><br></b></p><p><b>GETModer Ecosystem comprises:</b></p><p>a) Cryto Loan</p><p>b) Instant Exchange</p><p><br></p><p>Utility Token: GETModer</p><p>Blockchain: Ethereum</p><p>Symbol: GTMR</p><p>Total: 251 million</p><p>Circulating: 150 million</p><p><br></p><p>\n</p><div>\n</div><div><b>a) Borderless Crypto Financing</b></div><div><span style=\"font-size: 1.07rem;\">The problem has been obvious for some time - spending crypto assets today prevents cryptocurrency holders from gaining on any future growth in asset value; holders who buy low need to hold on to their investments in order to benefit from selling high.</span></div><div><span style=\"font-size: 1.07rem;\">Decentralized and secure financial marketplace for peer to peer lending agreements using Blockchain and Smart Contracts.</span></div><div><b>For Borrower:</b> The GETModer platform allows you to borrow liquid funds instantly, based on the current value of your cryptocurrency asset holdings. You take out a loan, collateralized with more volatile assets such as Bitcoin or Ethereum - and in return you receive an agreed loan amount in a stable currency.&nbsp;<span style=\"font-size: 1.07rem;\">And after repaying the loan you receive your whole collateral back; even if the collateral has increased in value multiple times.&nbsp;</span><span style=\"font-size: 1.07rem;\">This way, you're able to acquire liquid funds for immediate needs, and save your crypto position, all at the same time. High lending ratio,&nbsp;</span></div><div><span style=\"font-size: 1.07rem;\"><b>For Lender: </b>Lending opportunity is opened to global market / anyone who wishes to be lender. \n</span><span style=\"font-size: 1.07rem;\">We guarantee full repayment and absence of risks because all loans are secured on crypto assets of the borrowers.</span></div><div><span style=\"font-size: 1.07rem;\"><b>Incentives:</b> Participants of our crypto-projects (<i>please refer to GETModer ITO below</i>) will entitle to special rate for both lending &amp; borrowing.</span></div><div><span style=\"font-size: 1.07rem;\"><b>Our Profits:</b> Processing fee from lending &amp; borrowing</span></div><div><span style=\"font-size: 1.07rem;\"><b>Target:</b> USD 5 million financing volume perday</span></div><div><b style=\"font-size: 1.07rem;\"></b></div><div><span style=\"font-size: 1.07rem;\"><b><br></b></span></div><div><br></div><div>\n</div><div>\n</div><div><b>b) Instant Cryptocurrency Exchange\n</b></div><div>Our instant wallet to wallet exchange allows you to trade cryptocurrency without registering at any exchange or needing verification. The parent service already has over 700,000 customers onboard and processes over 50,000 BTC monthly. Our platform is partnered with Jaxx, Coinmarketcap, Bittrex, Coinpayments, Uquid debit card, Coinomi, and other reputable companies.\n</div><div>The wide range of cryptocurrency trading pairs provided makes the platform particularly appealing. It creates an opportunity to exchange any two currencies with minimal fuss. Traditional cryptocurrency trading platforms generally have a limited selection of trading pairs, meaning that sometimes users have to make multiple transactions to receive their desired cryptocurrency. Fiat currency support will be added to our exchange, with the inclusion of credit and debit card purchases.</div><div><b>Incentives:</b> We will provide most proftable free trading signals according to indepth technical analysis of cryptocurrency trading. Hence encourage mass users to use our exchange platform because of the free signals.</div><div><b>Our profits:</b> Trading transaction fee\n</div><div><b>Target:</b> USD 100 million exchange volume perday. 60% of the revenue earned from this currency exchange will use to buy back GTMR tokens circulating in the markets to fund our Lending Platform.<span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><p></p>",
+          "text": "<p><b>GETModer Ecosystem</b></p><p>In its historical development, GETModer</p><p>has been identifying and successfully solving inefficiencies on lending markets by creating innovative and convenient financing solutions.\n</p><p>\n</p><p>By applying blockchain technology, GTMR Token is GETModer's answer to solving the lack of financing for the new digital economy.</p><p><b><br></b></p><p><b>GETModer Ecosystem comprises:</b></p><p>a) Cryto Loan</p><p>b) Instant Exchange</p><p><br></p><p>Utility Token: GETModer</p><p>Blockchain: Ethereum</p><p>Symbol: GTMR</p><p>Total: 251 million</p><p>Circulating: 150 million</p><p><br></p><p>\n</p><div>\n</div><div><b>a) Borderless Crypto Financing</b></div><div><span style=\"font-size: 1.07rem;\">The problem has been obvious for some time - spending crypto assets today prevents cryptocurrency holders from gaining on any future growth in asset value; holders who buy low need to hold on to their investments in order to benefit from selling high.</span></div><div><span style=\"font-size: 1.07rem;\">Decentralized and secure financial marketplace for peer to peer lending agreements using Blockchain and Smart Contracts.</span></div><div><b>For Borrower:</b> The GETModer platform allows you to borrow liquid funds instantly, based on the current value of your cryptocurrency asset holdings. You take out a loan, collateralized with more volatile assets such as Bitcoin or Ethereum - and in return you receive an agreed loan amount in a stable currency.&nbsp;<span style=\"font-size: 1.07rem;\">And after repaying the loan you receive your whole collateral back; even if the collateral has increased in value multiple times.&nbsp;</span><span style=\"font-size: 1.07rem;\">This way, you're able to acquire liquid funds for immediate needs, and save your crypto position, all at the same time. High lending ratio,&nbsp;</span></div><div><span style=\"font-size: 1.07rem;\"><b>For Lender: </b>Lending opportunity is opened to global market / anyone who wishes to be lender. \n</span><span style=\"font-size: 1.07rem;\">We guarantee full repayment and absence of risks because all loans are secured on crypto assets of the borrowers.</span></div><div><span style=\"font-size: 1.07rem;\"><b>Incentives:</b> Participants of our crypto-projects (<i>please refer to GETModer ITO below</i>) will entitle to special rate for both lending &amp; borrowing.</span></div><div><span style=\"font-size: 1.07rem;\"><b>Our Profits:</b> Processing fee from lending &amp; borrowing</span></div><div><span style=\"font-size: 1.07rem;\"><b>Target:</b> USD 5 million financing volume perday</span></div><div><b style=\"font-size: 1.07rem;\"></b></div><div><span style=\"font-size: 1.07rem;\"><b><br></b></span></div><div><br></div><div>\n</div><div>\n</div><div><b>b) Instant Cryptocurrency Exchange</b></div><div><b><a href=\"https://getmoder.exchange\" class=\"text-danger\">Access GETModer Exchange here</a></b></div><div><b><br></b></div><div><b>\n</b></div><div>Our instant wallet to wallet exchange allows you to trade cryptocurrency without registering at any exchange or needing verification. The parent service already has over 700,000 customers onboard and processes over 50,000 BTC monthly. Our platform is partnered with Jaxx, Coinmarketcap, Bittrex, Coinpayments, Uquid debit card, Coinomi, and other reputable companies.\n</div><div>The wide range of cryptocurrency trading pairs provided makes the platform particularly appealing. It creates an opportunity to exchange any two currencies with minimal fuss. Traditional cryptocurrency trading platforms generally have a limited selection of trading pairs, meaning that sometimes users have to make multiple transactions to receive their desired cryptocurrency. Fiat currency support will be added to our exchange, with the inclusion of credit and debit card purchases.</div><div><b>Incentives:</b> We will provide most proftable free trading signals according to indepth technical analysis of cryptocurrency trading. Hence encourage mass users to use our exchange platform because of the free signals.</div><div><b>Our profits:</b> Trading transaction fee\n</div><div><b>Target:</b> USD 100 million exchange volume perday. 60% of the revenue earned from this currency exchange will use to buy back GTMR tokens circulating in the markets to fund our Lending Platform.<span style=\"font-size: 1.07rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><p></p>",
           "_tags": [
             "Theme"
           ],
@@ -811,7 +813,7 @@
           },
           "title": "PRE MADE BLOCKS",
           "text": "Direct access GETModer Instant Exchange",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mitnet.exchange\" data-toolbar=\"-mbrBtnMove\">GETModer Instant Exchange</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://getmoder.exchange\" data-toolbar=\"-mbrBtnMove\">GETModer Instant Exchange</a>",
           "_tags": [
             "Theme"
           ],
@@ -1300,10 +1302,10 @@
           "title4": "Social Network",
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"true\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"true\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"false\">Social</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"false\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"false\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Social</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
           "text1": "Still in developemenntal stage and will be available after 25% completion of the MITNET token sales",
           "text2": "*(Full team profile will be published in this site after 25% completion of the MITNET token sales.)<br><br><b>Arthur Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Buck Wisely– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Nonyang Ngam– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\n<br>that is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Steve Howsley– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\n<br>setting up servers with security in mind.<br>",
-          "text3": "To be published soon",
+          "text3": "<a href=\"https://github.com/getmoder/IEO\">https://github.com/getmoder/IEO</a><br><br><a href=\"https://github.com/getmoder/IEO\" class=\"text-white\">Smart contract might be updated or changed to enhance platform efficiency.<br></a>",
           "text4": "Our markekting team will start to promote GETModer project at various socal network after the completion of Early Birds Privarte Sales Event. At the meantime if you are interested to join the Early Birds Event, <a href=\"page3.html\">please contact us</a>.",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -1336,7 +1338,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp;<br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1347,282 +1349,6 @@
               "font-size": "14px"
             }
           }
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "FAQ",
-        "order": 4
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "bgColor": "#2969b0",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e25041!important"
-            },
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-r"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "footer1-s"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>FAQ&nbsp;</p><p><br></p><p>Is MITNet Decentralized?\n</p><p>MITNet is of the belief that decentralized exchanges are the future, but understands the strong demand for a centralized system by investors and traders who don’t want to take on the cumbersome task of using and maintaining wallet keys by themselves. MITNet is launching under the law of centralization, but our long-term goal is decentralized migration; beginning with optional private key importing and exporting, and eventually providing lone control over private keys. This transition will be 100% optional and will be determined by the user according to their expertise level.</p><p><br></p><p>Does MITNet follow KYC/AML Requirements?</p><p>So far not yet. This is a wallet to wallet exchange platform.</p><p><br></p><p>Will fiat be accepted?</p><p>Fiat will not be accepted at this time.</p><p><br></p><p>\n</p><p>\n</p><p>Will there be an ICO?</p><p>Yes</p><p><br></p><p>How does MITNet Exchange work?\n</p><p>MITNet's robot is integrated into the largest cryptocurrency trading platforms, including Poloniex and Bittrex. In the span of milliseconds, the robot makes bids and asks on the trading platforms, then selects and suggests the best available rate and displays the estimated rate on our site. The rates remain approximate until the transaction is actually made on the blockchain. The exchange rate at the time of a transaction may differ slightly from the estimated rate that you see when you begin a transaction.</p><p><br></p><p>Why should I trust you?\n</p><p>MITNet is a young and promising project created by professionals distributed throughout the whole world. The service provides safe and fast transactions without revealing users identities. We provide the best possible rates by comparing a wide range of reliable trading platforms and work in over 50 cryptocurrencies listed.</p><p><br></p><p>Why doesn’t MITNet fix rates?\n</p><p>We don’t fix currency rates and never have because of the volatile nature of cryptocurrency, where the rate of any currency can fluctuate every minute. This is why the final rate may be slightly higher or lower than expected at the end of a transaction.\n</p><p>\n</p><p>Keeping the rates fixed would require us to cover market risks and currency volatility, which as a result would make our commission fee much higher. Instead, MIT charges a quite low commission fee (0.5%) and offers the best available rate at the moment the transaction is completed.</p><p><br></p><p>Do I need to enter my email?\n</p><p>Your email <b><i>may be</i></b> needed to create an account that gives you access to your transaction history, password editing and other account settings. Alternatively, you can create an account one of the social media platforms listed.</p><p><br></p><p><br></p><p><br></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1a"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "About Us",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "bgColor": "#2969b0",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e25041!important"
-            },
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-t"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "footer1-u"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>ABOUT US\n</p><p>MITNet Wallet to Wallet Instant Exchange is an exchange built by real traders and innovators that not only listen to the public, but makes their ideas reality.\n</p><p>The world's first digital asset exchange built and developed by the community. MITNet is set to host a fully functional mobile application, around-the-clock phone support staff, and an established user voting system to provide users an exceptional trading experience. With a revolutionary fee system which features both fixed and percentage-based fees, MIT enables easy and cheap trading costs for both small and large volume accounts.&nbsp;</p><p>Moreover, MITNet posed itself as one the best investment opportunity to the public via blockchain.&nbsp;</p><p><br></p><p><br></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-15"
         }
       ]
     },
@@ -1640,7 +1366,7 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": 0.75,
@@ -1648,7 +1374,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extToggle1-24\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://getmoder.exchange\">GETModer Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1679,13 +1405,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1737,7 +1463,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp;<br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1756,7 +1482,7 @@
             "inverse": false,
             "showArrow": true,
             "showFormTitle": true,
-            "countdown": "2018/05/31",
+            "countdown": "2018/06/15",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-extheader13-bg.jpg",
             "parallax": false,
@@ -1767,16 +1493,16 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "overlayOpacity": 0.5
           },
-          "title": "MITNet Exchange",
+          "title": "GETModer 2018",
           "title2": "Contact US",
-          "text": "MITNet IEO has started. Ending in 31 May 2018",
+          "text": "IEO starts on 15 March<br>End on 15 June",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
           "form": {
-            "action": "mitexchange@gmail.com",
+            "action": "ieogetmoder@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1842,7 +1568,7 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": 0.75,
@@ -1850,7 +1576,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extToggle1-24\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://getmoder.exchange\">GETModer Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1881,13 +1607,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1939,7 +1665,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp;<br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -1957,7 +1683,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>TERMS AND CONDITIONS OF SERVICE OF MITNet Exchange</p><p>(“the Agreement”)\n</p><p>THE AGREEMENT WAS LAST UPDATED ON 17 Feb 2018</p><p><br></p><p>INTRODUCTION\n</p><p>\n</p><p>1. Thank you for browsing our digital asset exchange website and/or placing an order with Bitmora Inc. a site operated by MITNet Inc. (“the Company”) with &nbsp;its website at ‘https://mitnet.exchange”).\n</p><p>\n</p><p>2. By browsing the contents on the Website and/or placing an order, clicking to accept this Agreement or using and/or accessing any of the Company or related services (as the case may be), you agree to all the terms and conditions of the Agreement.\n</p><p>\n</p><p>3. If you are using or ordering the Company’s service(s) or related service(s) on behalf of a Company or other entity, then “Customer” or “You” means that entity, and you are binding that entity to the Agreement. You represent and warrant that you have the legal power and authority to enter into the Agreement and that, if the Customer is an entity, the Agreement is entered into by an employee or agent with all necessary authority to bind that entity to the Agreement.\n</p><p>\n</p><p><br></p><p>GENERAL\n</p><p>\n</p><p>4. The terms and conditions of the Agreement (together with any other terms and conditions agreed in writing between the Company and the Client from time to time) constitute the entire agreement between the parties and supersede any previous agreement(s) or understanding(s) and may not be varied except with notice from the Company. \n</p><p>\n</p><p>5. No failure or delay by the Company in exercising any of its rights under the Agreement shall be deemed to be a waiver of that right, and no waiver by the Company of any breach of the Contract by the Client shall be considered as a waiver of any subsequent breach of the same or any other provision.\n</p><p>\n</p><p><br></p><p>DEFINITION AND INTERPRETATION\n</p><p>\n</p><p>6. The following words used herein have the following definitions and meanings :-\n</p><p>\n</p><p>6.1 ‘Authorised Users’ refers to the Client’s employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Client.\n</p><p>\n</p><p>6.2 ‘Client’ refers to you as the receiver of the Services and will also include inter alia, to your employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of you. \n</p><p>\n</p><p>6.3 ‘Parties’ collectively refers to ‘the Company’ and its employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services as the Service Provider and ‘You’ as the Client and its authorised agents, contractors, employees or any entity duly authorised for and on behalf of you. \n</p><p>\n</p><p>6.4 ‘Services’ refers to the global digital asset exchange information and/or any product(s) that may be available for purchase as provided by the Company as hereinafter displayed on the Website (as the case may be) (subject to change). Fiat to Bitcoin and Ethereum services in the future.\n</p><p>\n</p><p>6.5 ‘Service Provider’ refers to the Company and/or its employees, agent, contractor, third parties, staff or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services. \n</p><p>\n</p><p>6.6 ‘We, Us or Our’ refers to the Company and its employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services.\n</p><p>\n</p><p>6.7 ‘You or Your’ refers to the Client.\n</p><p>\n</p><p><br></p><p>THE SERVICES \n</p><p>\n</p><p>7. General terms of Services\n</p><p>\n</p><p>7.1 The Company shall provide the Services to the Client subject to the terms and conditions contained herein or any other reference to documents referred to by the Company to the Client or such other terms and conditions as may be agreed in writing between the Company and the Client.\n</p><p>\n</p><p>7.2 The Company shall provide to the Client the Services as specified on the Company’s website. \n</p><p>\n</p><p>7.3 If in any event, the Company is unable to provide the Services, it will inform the Client as soon as reasonably possible. \n</p><p>\n</p><p>8. Responsibilities, Obligations and Due Diligence\n</p><p>\n</p><p>8.1 At the absolute discretion of the Company, it will provide the Client with the Services in its best endeavour to the Client. \n</p><p>\n</p><p>8.2 In the event that the Company is unable to provide the Services within a reasonable period from the dates(s) and time(s) and the Company have agreed or notified the Client then the Client will have the rights subject to the terms and conditions contained herein to exercise the Client’s option to wait until the Company is available to start performing the Services.\n</p><p>\n</p><p>8.3 The Client shall not request the Company to perform Services which are immoral or unlawful in nature. The decision will be at the absolute discretion of the Company. \n</p><p>\n</p><p>8.4 The Client shall endeavour to provide the Company with as much detailed information as possible regarding the Services under request in order for the Company to provide excellent services.\n</p><p>\n</p><p>8.5 The Client shall not request the Company to perform Services to, from and for people or places where the Company’s staffs, employees, agents and any other duly authorised entities of the Company may experience any form of abuse, bodily harm or death. \n</p><p>\n</p><p><br></p><p>LIABILITY, EXCLUSION AND LIMITATIONS \n</p><p>\n</p><p>9. The Company warrants to the Client that it shall use all of its reasonable endeavours to provide the Services using reasonable care and skill and as far as reasonably possible, in accordance with the Client’s request. \n</p><p>\n</p><p>10. The Company will not exclude or limit liability for its negligence or negligent omission which causes personal injury or death. \n</p><p>\n</p><p>11. The Company shall not be liable for any loss, cost, expense or damage of any nature whatsoever (whether direct or indirect) resulting from the use of Services except where it is expressly determined that a person acting under the direct instruction of the Company has knowingly acted in a negligent manner.\n</p><p>\n</p><p>12. The Company shall have no liability to the Client for any loss, damage, costs, expenses or other claims for compensation arising from requests or instructions supplied by the Client which are incomplete, incorrect or inaccurate or any other fault of the Client.\n</p><p>\n</p><p>13. The Company shall not be liable or be deemed to be in breach of the Agreement by reason of any delay in performing, or any failure, any of the Company’s obligations in relation to the Services, if the delay or failure was due to any cause beyond the Company’s reasonable control.\n</p><p>\n</p><p>14. Subject to the provisions of the terms and conditions contained herein, the maximum liability of the Company to the Client for breach of any of its obligations hereunder shall be limited to the value of the Charge (provided that the Charge has at such time been paid by the Client in full).\n</p><p>\n</p><p><br></p><p>DISCLOSURE OF INFORMATION \n</p><p>\n</p><p>15. All private information shall be governed by the Privacy Policy on the Website. \n</p><p>\n</p><p>16. Unless the Company receives notice from the Client to the contrary, the Company shall from time to time provide to the Client (by post, telephone or email) such information in relation to the Services that the Company considers may be of interest to the Client.\n</p><p>\n</p><p>AMENDMENTS \n</p><p>\n</p><p>17. The Company may update or modify this Agreement from time to time. If the Company modifies the Agreement during the Services, the modified version will take effect upon the next Service. \n</p><p>\n</p><p>18. Client may be required to check the update version from time to time after the modified version takes effect, in any event the continued use of the Services shall constitute acceptance of the modified version.\n</p><p>\n</p><p><br></p><p>SEVERABILITY\n</p><p>\n</p><p>19. If any provision of this Agreement is found by any Court of competent jurisdiction to be unenforceable or invalid, that provision will be limited to the minimum extent necessary so that this Agreement may otherwise remain in effect. \n</p><p>\n</p><p>FORCE MAJEURE \n</p><p>\n</p><p>20. Neither Party will be liable for any delay or failure to perform its obligations under the Agreement (except payment obligations) if the delay or failure is due to causes beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, natural disaster, failure or reduction of power or telecommunications or data networks or services, or government act.\n</p><p>\n</p><p><br></p><p>SUBPOENAS \n</p><p>\n</p><p>21. Nothing in the Agreement prevents the Company from disclosing Client information and data to the extent required by law, subpoenas, or court orders, but the Company will use commercially reasonable efforts to notify Client where permitted to do so.\n</p><p>\n</p><p><br></p><p>ASSIGNMENT \n</p><p>\n</p><p>22. The Agreement will bind and inure to the benefit of each Party’s permitted successors and assigns. Neither Party may assign the Agreement without the advance written consent of the other party, except that the Company may assign the Agreement without consent to an affiliate or in connection with a merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. \n</p><p>\n</p><p><br></p><p>ENTIRE AGREEMENT \n</p><p>\n</p><p>23. The Agreement represents the parties’ complete and exclusive understanding relating to the Agreement’s subject matter. It supersedes all prior or contemporaneous oral communications, proposals and representations with respect to the Company or any other subject matter covered by this Agreement.\n</p><p>\n</p><p><br></p><p>INCORPORATION\n</p><p>\n</p><p>24. The Agreement, shall unless otherwise suggested, incorporate all terms and conditions contained and set out in the Privacy Policy (Privacy Policy) and other written documents deemed appropriate by the Company including, without limitations, the contents on the Website. \n</p><p>\n</p><p><br></p><p>GOVERNING LAW, JURISDICTION AND VENUE\n</p><p>\n</p><p>25. This Agreement is governed by the laws in the state of Delaware, without regard to choice or conflict of law rules thereof.\n</p><p>\n</p><p>CONTACT US\n</p><p>\n</p><p>26. The Company welcomes your questions or comments regarding the foregoing Terms.\n </p><p><a href=\"page3.html\">Contact Us</a></p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>TERMS AND CONDITIONS OF SERVICE OF GETModer Foundation</p><p>(“the Agreement”)\n</p><p>THE AGREEMENT WAS LAST UPDATED ON 17 Feb 2018</p><p><br></p><p>INTRODUCTION\n</p><p>\n</p><p>1. Thank you for browsing our digital asset exchange website and/or placing an order with Bitmora Inc. a site operated by GETModer Inc. (“the Company”) with &nbsp;its website at ‘https://GETModer.io ”).\n</p><p>\n</p><p>2. By browsing the contents on the Website and/or placing an order, clicking to accept this Agreement or using and/or accessing any of the Company or related services (as the case may be), you agree to all the terms and conditions of the Agreement.\n</p><p>\n</p><p>3. If you are using or ordering the Company’s service(s) or related service(s) on behalf of a Company or other entity, then “Customer” or “You” means that entity, and you are binding that entity to the Agreement. You represent and warrant that you have the legal power and authority to enter into the Agreement and that, if the Customer is an entity, the Agreement is entered into by an employee or agent with all necessary authority to bind that entity to the Agreement.\n</p><p>\n</p><p><br></p><p>GENERAL\n</p><p>\n</p><p>4. The terms and conditions of the Agreement (together with any other terms and conditions agreed in writing between the Company and the Client from time to time) constitute the entire agreement between the parties and supersede any previous agreement(s) or understanding(s) and may not be varied except with notice from the Company. \n</p><p>\n</p><p>5. No failure or delay by the Company in exercising any of its rights under the Agreement shall be deemed to be a waiver of that right, and no waiver by the Company of any breach of the Contract by the Client shall be considered as a waiver of any subsequent breach of the same or any other provision.\n</p><p>\n</p><p><br></p><p>DEFINITION AND INTERPRETATION\n</p><p>\n</p><p>6. The following words used herein have the following definitions and meanings :-\n</p><p>\n</p><p>6.1 ‘Authorised Users’ refers to the Client’s employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Client.\n</p><p>\n</p><p>6.2 ‘Client’ refers to you as the receiver of the Services and will also include inter alia, to your employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of you. \n</p><p>\n</p><p>6.3 ‘Parties’ collectively refers to ‘the Company’ and its employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services as the Service Provider and ‘You’ as the Client and its authorised agents, contractors, employees or any entity duly authorised for and on behalf of you. \n</p><p>\n</p><p>6.4 ‘Services’ refers to the global digital asset exchange information and/or any product(s) that may be available for purchase as provided by the Company as hereinafter displayed on the Website (as the case may be) (subject to change). Fiat to Bitcoin and Ethereum services in the future.\n</p><p>\n</p><p>6.5 ‘Service Provider’ refers to the Company and/or its employees, agent, contractor, third parties, staff or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services. \n</p><p>\n</p><p>6.6 ‘We, Us or Our’ refers to the Company and its employees, agents, contractor, third parties, staffs or any entity that is duly authorised to act on behalf of the Company for the carrying out of the Services.\n</p><p>\n</p><p>6.7 ‘You or Your’ refers to the Client.\n</p><p>\n</p><p><br></p><p>THE SERVICES \n</p><p>\n</p><p>7. General terms of Services\n</p><p>\n</p><p>7.1 The Company shall provide the Services to the Client subject to the terms and conditions contained herein or any other reference to documents referred to by the Company to the Client or such other terms and conditions as may be agreed in writing between the Company and the Client.\n</p><p>\n</p><p>7.2 The Company shall provide to the Client the Services as specified on the Company’s website. \n</p><p>\n</p><p>7.3 If in any event, the Company is unable to provide the Services, it will inform the Client as soon as reasonably possible. \n</p><p>\n</p><p>8. Responsibilities, Obligations and Due Diligence\n</p><p>\n</p><p>8.1 At the absolute discretion of the Company, it will provide the Client with the Services in its best endeavour to the Client. \n</p><p>\n</p><p>8.2 In the event that the Company is unable to provide the Services within a reasonable period from the dates(s) and time(s) and the Company have agreed or notified the Client then the Client will have the rights subject to the terms and conditions contained herein to exercise the Client’s option to wait until the Company is available to start performing the Services.\n</p><p>\n</p><p>8.3 The Client shall not request the Company to perform Services which are immoral or unlawful in nature. The decision will be at the absolute discretion of the Company. \n</p><p>\n</p><p>8.4 The Client shall endeavour to provide the Company with as much detailed information as possible regarding the Services under request in order for the Company to provide excellent services.\n</p><p>\n</p><p>8.5 The Client shall not request the Company to perform Services to, from and for people or places where the Company’s staffs, employees, agents and any other duly authorised entities of the Company may experience any form of abuse, bodily harm or death. \n</p><p>\n</p><p><br></p><p>LIABILITY, EXCLUSION AND LIMITATIONS \n</p><p>\n</p><p>9. The Company warrants to the Client that it shall use all of its reasonable endeavours to provide the Services using reasonable care and skill and as far as reasonably possible, in accordance with the Client’s request. \n</p><p>\n</p><p>10. The Company will not exclude or limit liability for its negligence or negligent omission which causes personal injury or death. \n</p><p>\n</p><p>11. The Company shall not be liable for any loss, cost, expense or damage of any nature whatsoever (whether direct or indirect) resulting from the use of Services except where it is expressly determined that a person acting under the direct instruction of the Company has knowingly acted in a negligent manner.\n</p><p>\n</p><p>12. The Company shall have no liability to the Client for any loss, damage, costs, expenses or other claims for compensation arising from requests or instructions supplied by the Client which are incomplete, incorrect or inaccurate or any other fault of the Client.\n</p><p>\n</p><p>13. The Company shall not be liable or be deemed to be in breach of the Agreement by reason of any delay in performing, or any failure, any of the Company’s obligations in relation to the Services, if the delay or failure was due to any cause beyond the Company’s reasonable control.\n</p><p>\n</p><p>14. Subject to the provisions of the terms and conditions contained herein, the maximum liability of the Company to the Client for breach of any of its obligations hereunder shall be limited to the value of the Charge (provided that the Charge has at such time been paid by the Client in full).\n</p><p>\n</p><p><br></p><p>DISCLOSURE OF INFORMATION \n</p><p>\n</p><p>15. All private information shall be governed by the Privacy Policy on the Website. \n</p><p>\n</p><p>16. Unless the Company receives notice from the Client to the contrary, the Company shall from time to time provide to the Client (by post, telephone or email) such information in relation to the Services that the Company considers may be of interest to the Client.\n</p><p>\n</p><p>AMENDMENTS \n</p><p>\n</p><p>17. The Company may update or modify this Agreement from time to time. If the Company modifies the Agreement during the Services, the modified version will take effect upon the next Service. \n</p><p>\n</p><p>18. Client may be required to check the update version from time to time after the modified version takes effect, in any event the continued use of the Services shall constitute acceptance of the modified version.\n</p><p>\n</p><p><br></p><p>SEVERABILITY\n</p><p>\n</p><p>19. If any provision of this Agreement is found by any Court of competent jurisdiction to be unenforceable or invalid, that provision will be limited to the minimum extent necessary so that this Agreement may otherwise remain in effect. \n</p><p>\n</p><p>FORCE MAJEURE \n</p><p>\n</p><p>20. Neither Party will be liable for any delay or failure to perform its obligations under the Agreement (except payment obligations) if the delay or failure is due to causes beyond its reasonable control, such as a strike, blockade, war, act of terrorism, riot, natural disaster, failure or reduction of power or telecommunications or data networks or services, or government act.\n</p><p>\n</p><p><br></p><p>SUBPOENAS \n</p><p>\n</p><p>21. Nothing in the Agreement prevents the Company from disclosing Client information and data to the extent required by law, subpoenas, or court orders, but the Company will use commercially reasonable efforts to notify Client where permitted to do so.\n</p><p>\n</p><p><br></p><p>ASSIGNMENT \n</p><p>\n</p><p>22. The Agreement will bind and inure to the benefit of each Party’s permitted successors and assigns. Neither Party may assign the Agreement without the advance written consent of the other party, except that the Company may assign the Agreement without consent to an affiliate or in connection with a merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities. \n</p><p>\n</p><p><br></p><p>ENTIRE AGREEMENT \n</p><p>\n</p><p>23. The Agreement represents the parties’ complete and exclusive understanding relating to the Agreement’s subject matter. It supersedes all prior or contemporaneous oral communications, proposals and representations with respect to the Company or any other subject matter covered by this Agreement.\n</p><p>\n</p><p><br></p><p>INCORPORATION\n</p><p>\n</p><p>24. The Agreement, shall unless otherwise suggested, incorporate all terms and conditions contained and set out in the Privacy Policy (Privacy Policy) and other written documents deemed appropriate by the Company including, without limitations, the contents on the Website. \n</p><p>\n</p><p><br></p><p>GOVERNING LAW, JURISDICTION AND VENUE\n</p><p>\n</p><p>25. This Agreement is governed by the laws in the state of Delaware, without regard to choice or conflict of law rules thereof.\n</p><p>\n</p><p>CONTACT US\n</p><p>\n</p><p>26. The Company welcomes your questions or comments regarding the foregoing Terms.\n </p><p><a href=\"page3.html\">Contact Us</a></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1980,7 +1706,7 @@
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": false,
+            "collapsed": true,
             "transparent": false,
             "bgColor": "#2969b0",
             "fontSize": 0.75,
@@ -1988,7 +1714,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extToggle1-24\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://getmoder.exchange\">GETModer Exchange</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2019,13 +1745,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
+              "background": "#1f5087"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
+              "background": "#2662a4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
+              "background": "#2969b0"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2077,7 +1803,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp;<br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
           "_tags": [
             "Theme"
           ],
@@ -2095,464 +1821,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>Privacy Policy</p><p><br></p><p>MITNet.exchange (“mitnet.exchange” or “we”) controls and provides access to the mit.exchange website, currently located at www.mitnet.exchange (the “Website”).</p><p><br></p><p>\n</p><p>\n</p><p>At mitnet.exchange, we are fully committed to respecting your privacy and to protecting any information that our clients provide. Your privacy and security are both our highest priorities and we make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the “Policy”) is designed to inform you about the terms of treating your personal data.\n</p><p>\n</p><p><br></p><p>Personal Information\n</p><p>\n</p><p>In order to access the functionality of the Website, you will may need to register. When registering, you may be asked to provide an email address and create a password. You may also choose to link to the Website using one of your accounts on the social networks, such as Twitter, Facebook and Google+.\n</p><p>\n</p><p><br></p><p>Record Collection\n</p><p>\n</p><p>From the moment you register on mit.exchange, our software will start collecting your non-personal identification information. Such information may include your browser’s name and technical information about your means of connection to our Website, in particular the operating system and the Internet service providers used among other similar information.\n</p><p>\n</p><p><br></p><p>The Use of Collected Information\n</p><p>\n</p><p>We may use the email address provided by you when you register to contact you from time to time. This might be for security reasons, to ask your opinion about the Website, or it may be to keep you updated on any changes to the services provided on the Website. We may also use the information to improve our customer service and respond to your needs more efficiently.\n</p><p>\n</p><p><br></p><p>Security\n</p><p>\n</p><p>mit.exchange aims to protect the security of your information as much as we aim to protect our own information and network. We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services. We do not sell, trade, or rent your personal identification information to others. You should never disclose your account password to unauthorized parties. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Website through unforeseen and/or illegal activity.\n</p><p>\n</p><p><br></p><p>Changes to the Policy\n</p><p>\n</p><p>This Policy may be amended at our full discretion without prior notice. We encourage you to review it periodically in order to be aware of the changes we may have made. Reading it carefully and checking for any modifications is your responsibility. By using the Website, you accept and agree to the Policy and the terms of use.\n</p><p>\n</p><p><br></p><p>Contacting us\n</p><p>\n</p><p>If you have any questions about this Privacy Policy or the rules of mit.exchange, please contact us at the <a href=\"page3.html\">Contact Us</a> page.</p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>Privacy Policy</p><p><br></p><p>GETModer oundation (“GETModer.io” or “we”) controls and provides access to the GETModer.io website, currently located at www.GETModer.io (the “Website”).</p><p><br></p><p>\n</p><p>\n</p><p>At GETModer, we are fully committed to respecting your privacy and to protecting any information that our clients provide. Your privacy and security are both our highest priorities and we make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the “Policy”) is designed to inform you about the terms of treating your personal data.\n</p><p>\n</p><p><br></p><p>Personal Information\n</p><p>\n</p><p>In order to access the functionality of the Website, you will may need to register. When registering, you may be asked to provide an email address and create a password. You may also choose to link to the Website using one of your accounts on the social networks, such as Twitter, Facebook and Google+.\n</p><p>\n</p><p><br></p><p>Record Collection\n</p><p>\n</p><p>From the moment you register on mit.exchange, our software will start collecting your non-personal identification information. Such information may include your browser’s name and technical information about your means of connection to our Website, in particular the operating system and the Internet service providers used among other similar information.\n</p><p>\n</p><p><br></p><p>The Use of Collected Information\n</p><p>\n</p><p>We may use the email address provided by you when you register to contact you from time to time. This might be for security reasons, to ask your opinion about the Website, or it may be to keep you updated on any changes to the services provided on the Website. We may also use the information to improve our customer service and respond to your needs more efficiently.\n</p><p>\n</p><p><br></p><p>Security\n</p><p>\n</p><p>mit.exchange aims to protect the security of your information as much as we aim to protect our own information and network. We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services. We do not sell, trade, or rent your personal identification information to others. You should never disclose your account password to unauthorized parties. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Website through unforeseen and/or illegal activity.\n</p><p>\n</p><p><br></p><p>Changes to the Policy\n</p><p>\n</p><p>This Policy may be amended at our full discretion without prior notice. We encourage you to review it periodically in order to be aware of the changes we may have made. Reading it carefully and checking for any modifications is your responsibility. By using the Website, you accept and agree to the Policy and the terms of use.\n</p><p>\n</p><p><br></p><p>Contacting us\n</p><p>\n</p><p>If you have any questions about this Privacy Policy or the rules of mit.exchange, please contact us at the <a href=\"page3.html\">Contact Us</a> page.</p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-19"
-        }
-      ]
-    },
-    "page6.html": {
-      "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "ICO Builder (Beta)",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "30px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            "DIV": {
-              "color": "#ffffff",
-              "font-size": "22px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-d5rchcodw4fyjakhtgo5ha-1600x1000.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#056ad9",
-            "overlayOpacity": "0.7"
-          },
-          "title": "MITNet ICO Builder &nbsp;(Available soon)<br>",
-          "caption": "Launch your own ICO\n<div>Craft your own project. Create your own cryptocurrency.</div><div>Fast, Easy &amp; Effective</div>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-2f"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "bgColor": "#2969b0",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e25041!important"
-            },
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2d"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#a8d4ec"
-          },
-          "text": "<p><b>ICO Services – Launch Your ICO\n</b></p><p>We help campanies launch their own ICOs. We provide an all-inclusive infrastructure such as token creation &amp; distribution, ICO platform hosting, landing page design, PR, bounty, etc. Contact us to launch your own ICO now.</p><p><b><br></b></p><p><b>Smart Contracts\n</b></p><div><span style=\"font-size: 1.07rem;\">Smart contracts and blockchain technology are changing business the same way the internet did. Here at draglet we have the expertise to help you develop the right smart contract solutions so you can stay ahead of the curve. Come chat with us and let’s talk about how we can work together.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Digital Tokens\n</b></span></div><div><span style=\"font-size: 1.07rem;\">Utilizing blockchain technology, digital tokens revolutionize the way of transferring real-world assets. Ethereum tokens make it possible to buy, trade, and sell different types of assets on a blockchain. Contact us if you or your business are interested in implementing Ethereum tokens.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>BlockChain</b></span></div><div><span style=\"font-size: 1.07rem;\">Build, deploy, and manage&nbsp;</span><span style=\"font-size: 1.07rem;\">private, interoperable </span><span style=\"font-size: 1.07rem;\">cryptocurrencies and blockchains.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>ICO\n/IEO/ITO/IMO</b></span></div><div><span style=\"font-size: 1.07rem;\">ICO allows investors to support new initiatives using cryptocurrency and principles of crowdfunding. During an ICO’s crowdsale, participants purchase project-specific cryptocurrency tokens as a form of investment in the company. ICO represents the first stage of a project going public.</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Pricing</b></span></div><div><span style=\"font-size: 1.07rem;\">Range from 10 ETH to 125 ETH</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Pay By</b></span></div><div><span style=\"font-size: 1.07rem;\">MITNET Tokens or ETHER</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\"><b>Time</b></span></div><div><span style=\"font-size: 1.07rem;\">Typical Project would take 10 days to 45 days, depends on the complexity of your project</span></div><div><span style=\"font-size: 1.07rem;\"><br></span><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2h",
-          "_styles": {
-            "DIV": {
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#a8d4ec",
-            "overlayOpacity": "0.1"
-          },
-          "title": "ICO Builder",
-          "text": "Please fill in the form and our team will contact you for more details.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\">GET STARTED</a>",
-          "form": {
-            "action": "firdauslee.rhb@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extHeader10",
-          "_anchor": "extHeader10-2i",
-          "_styles": {
-            "H3": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "25px"
-            },
-            "P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "18px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "footer1-2e"
-        }
-      ]
-    },
-    "page7.html": {
-      "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Local Exchange (Beta)",
-        "order": 3
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "bgColor": "#2969b0",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">ICO Builder (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\">Local Exchange (Beta)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">About Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extTable1-k\">Investment</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mitnet.exchange\">MITNet Instant Exchange</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#075c20"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#097e2b!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#0a8c30"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#e25041!important"
-            },
-            ".btn": {
-              "font-size": "12px"
-            }
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2j"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp; &nbsp;<a href=\"page2.html\">About Us</a><br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_anchor": "footer1-2k"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "32px"
-            },
-            ".lead P": {
-              "font-size": "22px",
-              "color": "#2969b0"
-            },
-            ".lead DIV": {
-              "color": "#2969b0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "MITNet Local Exchange<br>( under development )",
-          "text": "<p><b>Buy and sell cryptocurrency near you<br></b></p><div><b>Instant. Secure. Private.\n</b></div><div><b>Trade Bitcoins &amp; Altcoins in 16041 cities and 248 countries</b></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2p"
-        },
-        {
-          "_params": {
-            "showText": false,
-            "paddingTop": "7",
-            "paddingBottom": 4,
-            "bgColor": "#8fc4e1"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/local-exchange2-1400x695.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-2l"
         }
       ]
     }
