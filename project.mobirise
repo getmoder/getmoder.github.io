@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 166,
+    "uniqCompNum": 170,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -435,7 +435,7 @@
             "showText": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgColor": "#efefef"
           },
           "media": {
             "image": {
@@ -456,6 +456,66 @@
           ],
           "_name": "image2",
           "_anchor": "image2-3r"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-4-1920x550.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f7da64",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/coins-bg-1207x506.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "Instant Crypto Exchange",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://getmoder.exchange\" data-toolbar=\"-mbrBtnMove\">Access Instant Crypto Exchange</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-4p",
+          "_styles": {
+            "P": {
+              "font-size": "21px"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {
@@ -802,44 +862,6 @@
           "_JSplaceholders": [
             "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80662742067459\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
           ]
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#f7da64",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "Direct access GETModer Instant Exchange",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://getmoder.exchange\" data-toolbar=\"-mbrBtnMove\">GETModer Instant Exchange</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-e",
-          "_styles": {
-            "H2": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px",
-              "color": "#000000"
-            }
-          }
         },
         {
           "_params": {

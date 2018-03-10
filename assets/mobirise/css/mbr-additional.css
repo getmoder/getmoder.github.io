@@ -25,7 +25,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -822,6 +821,12 @@ h6,
 #extFeatures1-9 P {
   font-size: 19px;
 }
+#msg-box5-4p P {
+  font-size: 21px;
+}
+#msg-box5-4p .btn {
+  font-size: 16px;
+}
 #extMsg-box4-1n SPAN {
   font-size: 24px;
   font-family: 'Raleway', sans-serif;
@@ -910,11 +915,6 @@ h6,
 }
 #custom-html-3n .my-image {
   width: 100%;
-}
-#msg-box1-e H2 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 22px;
-  color: #000000;
 }
 #extFeatures5-3c .mbr-iconfont-features4 {
   color: #1141f4 !important;
