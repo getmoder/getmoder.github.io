@@ -150,7 +150,7 @@
             "showTitle": true,
             "countdown": "2018/06/15",
             "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/picture22-1024x576.jpg",
             "parallax": false,
