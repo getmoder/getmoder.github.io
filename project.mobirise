@@ -195,7 +195,7 @@
             "showTitle": false,
             "showCaption": true,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
             "parallax": true,
@@ -219,8 +219,8 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#efefef"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">中文/​普通话</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Crypto Instant Exchange</a>",
