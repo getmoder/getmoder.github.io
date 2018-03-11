@@ -310,7 +310,7 @@
             "overlayOpacity": 0.5
           },
           "title": "BACKGROUND IMAGE",
-          "caption": "<p><b style=\"font-size: 1.07rem;\">GETModer:&nbsp;</b><span style=\"font-size: 1.07rem;\">An Institutional Grade Crypto Ecosystem</span></p><p><span style=\"font-size: 1.07rem;\"><b>Products:</b> Crypto Loan &amp; Instant Cryptocurrency Exchange</span></p><p><b>Mission</b>:<span style=\"font-size: 1.07rem;\">&nbsp;1)&nbsp;</span><span style=\"font-size: 1.07rem;\">Crypto Financing to Personal &amp; SMEs border-less, transparent and liquid as compared to traditional financing. 2) &nbsp;Cryptocurrency instant exchange at best rate and fast pace.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Vision\n:&nbsp;</b></span><span style=\"font-size: 1.07rem;\">Our goal is to 1) create an Asia wide Business/Personal Loans Asset Platform. 2) To promote instant cryptocurrency exchange</span></p>",
+          "caption": "<p><b style=\"font-size: 1.07rem;\">GETModer:&nbsp;</b><span style=\"font-size: 1.07rem;\">An Institutional Grade Crypto Platform</span></p><p><span style=\"font-size: 1.07rem;\"><b>Products:</b> Crypto Loan &amp; Instant Cryptocurrency Exchange</span></p><p><b>Mission</b>:<span style=\"font-size: 1.07rem;\">&nbsp;1)&nbsp;</span><span style=\"font-size: 1.07rem;\">Crypto Financing to Personal &amp; SMEs border-less, transparent and liquid as compared to traditional financing. 2) &nbsp;Cryptocurrency instant exchange at best rate and fast pace.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Vision\n:&nbsp;</b></span><span style=\"font-size: 1.07rem;\">Our goal is to 1) create an Asia wide Business/Personal Loans Asset Platform. 2) To promote instant cryptocurrency exchange</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -593,7 +593,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -762,7 +762,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote><p>Early Birds Event is a private sales offering before ITO is launched. Early contributors in Early Birds will get 12,000 GTMR token for each 1 ETH contribution. GETModer Early Birds provate sale event will start on 15 March 2018 and end on 15 Arpil.&nbsp;</p><p><br></p><p>GETModer's Early Birds private sale is uncapped. Any unsold token will be carried forward to Pre-ICO which will start on 16 April 2018</p></blockquote>",
+          "text": "<blockquote><p>Early Birds Event is a private sales offering before ITO is launched. Early contributors in Early Birds will get 12,000 GTMR token for each 1 ETH contribution. GETModer Early Birds provate sale event will start on 15 March 2018 and end on 15 Arpil.&nbsp;</p><p><br></p><p>GETModer's Early Birds private sale is uncapped. Any unsold token will be carried forward to Pre-ICO which will start on 16 April 2018</p><p><br></p><p>Blockchain is an open and decentralized system that can effectively register and constantly check transactions between two parties. Despite its simplicity, the basic technology of blocking provides decentralization, openness, and security to any interaction processes.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -1405,10 +1405,10 @@
           "title4": "Social Network",
           "title5": "Disclaimers",
           "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"true\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"false\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"false\">Social</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\" aria-expanded=\"false\">Disclaimers</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"true\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"true\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"false\">Social</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\" aria-expanded=\"false\">Disclaimers</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\">Beautiful</a></li>",
           "text1": "Still in developemenntal stage and will be available after 25% completion of the GTMR token sales",
           "text2": "*(Full team profile will be published in this site after 25% completion of the GTMR token sales.)<br><br><b>Arthur Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Buck Wisely– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Nonyang Ngam– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\n<br>that is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Steve Howsley– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\n<br>setting up servers with security in mind.<br>",
-          "text3": "<a href=\"https://github.com/getmoder/IEO\">https://github.com/getmoder/IEO</a><br><br><a href=\"https://github.com/getmoder/IEO\" class=\"text-white\">Smart contract might be updated or changed to enhance platform efficiency.<br></a>",
+          "text3": "<a href=\"https://github.com/getmoder/IEO\">https://github.com/getmoder/IEO</a><br><br><a href=\"https://github.com/getmoder/IEO\" class=\"text-white\">Smart contract might be updated or changed to enhance platform efficiency.</a><br><br>",
           "text4": "Our markekting team will start to promote GETModer project at various socal network after the completion of Early Birds Privarte Sales Event. At the meantime if you are interested to join the Early Birds Event, <a href=\"page3.html\">please contact us</a>.",
           "text5": "This depiction is a summary of the processes for obtaining a loan or making an investment. Terms and Conditions Apply. Loans are not directly made by GETMOder. GETModer is a Platform. All loans are subject to review and approval. For example, a one year $10,000 loan with a rate of 10.00% APR would have 12 scheduled monthly payments of $880. Annual percentage rates (APRs) through GETModer vary. Eligibility is not guaranteed, and requires that a sufficient pool of liquidity is available to fulfill your request and that you meet other conditions. Borrowing against collateral entails risk and may not be appropriate for your needs. GETModer does not provide legal or tax advice. Please consult your advisor.\n<br>",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
@@ -2340,7 +2340,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10003.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
