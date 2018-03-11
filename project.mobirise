@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 170,
+    "uniqCompNum": 173,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -186,6 +186,28 @@
           }
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Updates &amp; News:</b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">⁕ GETModer has adopted a high loan to coin ratio of 95%.</span></p><p><span style=\"font-style: normal;\">However a maximum C/L Ratio of 500% is possible under our special terms &amp; condition which is applicable to certain countries.</span></p><p><span style=\"font-style: normal;\">A full details of loan terms will be avaialble after the completion of GETModer Initial Token Offering</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ GETModer will be offering borrowing on bitcoin, ether, ether classic, litecoin, ripple, bitcoin cash, zcash and other major digital currencies in sizes from $100 upwards over fixed terms.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ Early Bird Offering ( closed door private sales) will be starting on 15 March 2018, for both instituitional &amp; personal participants.<br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ Early Bird Offering will be divided into 3 stages over a period of one month:</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 1 (starting 15 March)</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 2</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 3</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ If you are interested in joining the Early Bird Offering for maximum benefits, <a href=\"page7.html\">please follow this link to get whitelisted</a><br></span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-3q",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "color": "#1141f4"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -281,25 +303,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#extTable1-23\" data-toolbar=\"-mbrBtnMove\">Initial Token Offering</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-3d"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><span style=\"font-style: normal;\">GETModer has adopted a high loan to coin ratio of 95%.</span></p><p><span style=\"font-style: normal;\">However a maximum C/L Ratio of 500% is possible under our special terms &amp; condition which is applicable to certain countries.</span></p><p><span style=\"font-style: normal;\">A full details of loan terms will be avaialble after the completion of GETModer Initial Token Offering</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">GETModer can now offer borrow on bitcoin, ether, ether classic, litecoin, ripple, bitcoin cash, zcash and other digital currencies in sizes from $100 upwards over fixed terms.</span></p></blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-3q",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
-          }
         },
         {
           "_styles": {
@@ -1593,7 +1596,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Terms and Conditions ",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1731,7 +1734,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Privacy Policy",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3169,6 +3172,221 @@
             }
           },
           "_anchor": "footer1-4g"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Early Bird Whitelisting",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extToggle1-24\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文/​普通话</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://getmoder.exchange\">GETModer Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-200x200.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4q"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp;<br>GETMOder. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-4r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "inverse": false,
+            "showArrow": false,
+            "showFormTitle": true,
+            "countdown": "2018/06/15",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/141204142054-early-start-background-full-169-1600x900.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">GETModer ITO 2018<br>Early Bird Offering<br>Whitelisting</span>",
+          "title2": "<span style=\"font-weight: normal;\">Early Bird 1</span><br><span style=\"font-weight: normal;\">Whitelisting</span>",
+          "text": "<b>Early Bird 1<br></b>Early Bird 2<br>Early Bird 3",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>",
+          "form": {
+            "action": "admin@getmoder.io",
+            "alerts": {
+              "success": "Thanks for filling out form! \nWe will contact you very soon regarding our Early Bird 1 offering via email"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader13",
+          "_styles": {
+            "H3": {
+              "font-size": "22px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#475577"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "color": "#475577"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "22px",
+              "color": "#475577"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "B": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "extHeader13-4s"
         }
       ]
     }
