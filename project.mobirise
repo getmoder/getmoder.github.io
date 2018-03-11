@@ -593,7 +593,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10001.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -762,7 +762,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote><p>Early Birds Event is a private sales offering before ITO is launched. Early contributors in Early Birds will get 12,000 GTMR token for each 1 ETH contribution. GETModer Early Birds provate sale event will start on 15 March 2018 and end on 15 Arpil.&nbsp;</p><p><br></p><p>GETModer's Early Birds private sale is uncapped. Any unsold token will be carried forward to Pre-ICO which will start on 16 April 2018</p><p><br></p><p>Blockchain is an open and decentralized system that can effectively register and constantly check transactions between two parties. Despite its simplicity, the basic technology of blocking provides decentralization, openness, and security to any interaction processes.</p></blockquote>",
+          "text": "<blockquote><p>Early Birds Event is a private sales offering before ITO is launched. Early contributors in Early Birds will get 12,000 GTMR token for each 1 ETH contribution. GETModer Early Birds provate sale event will start on 15 March 2018 and end on 15 Arpil.&nbsp;</p><p><br></p><p>GETModer's Early Birds private sale is uncapped. Any unsold token will be carried forward to Pre-ICO which will start on 16 April 2018</p><p><br></p><p>Blockchain is an open and decentralized system that can effectively register and constantly check transactions between two parties. Despite its simplicity, the basic technology of blocking provides decentralization, openness, and security to any interaction processes.</p><p><br></p><p>Cryptocurrencies are digital or virtual currencies that are encrypted (protected) using cryptography. Cryptography is one of the methods of encryption to ensure and verify the transfer of transactions. Altcoins are any coins that are an alternative to bitcoin. Tokens are certain assets that are interchangeable and available.</p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -2340,7 +2340,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10001.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
