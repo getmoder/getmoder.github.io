@@ -147,7 +147,7 @@
         },
         {
           "_params": {
-            "showLogo": true,
+            "showLogo": false,
             "showTitle": false,
             "showText": true,
             "showCountdown": true,
@@ -570,7 +570,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100015.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -2317,7 +2317,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100014.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100015.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
