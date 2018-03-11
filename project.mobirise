@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#1164f4",
         "#e6e6e6",
         "#1141f4",
         "#a8d4ec",
         "#8fc4e1",
         "#ede6c8",
-        "#091523",
-        "#232323"
+        "#091523"
       ]
     },
     "favicon": "",
@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 173,
+    "uniqCompNum": 182,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -147,43 +147,98 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "countdown": "2018/06/15",
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "showLogo": true,
+            "showTitle": false,
+            "showText": true,
+            "showCountdown": true,
+            "showForm": false,
+            "showArrow": false,
+            "imageSize": "29",
+            "countdown": "2018/03/15",
+            "animText1": "",
+            "animText2": "",
+            "animText3": "",
+            "typeSpeed": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/picture22-1024x576.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
             "parallax": false,
             "bgColorRadio": false,
-            "bgColor": "#e9e9e9",
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.3"
           },
-          "title": "<div><font color=\"#232323\">GETModer</font></div><div>Initial Token Offering\n</div><div>Starting 15 March 2018\n</div><div>Ending  31 June 2018</div>",
+          "title": "OUR ",
+          "title2": "IS COMING SOON!",
+          "text": "<span style=\"font-style: normal;\">GETModer\n<br>Initial Token Offering\n<br>Starting 15 March 2018\n<br>Ending 31 June 2018</span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/earth-img-991x991.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "form": {
+            "action": "firdauslee.rhb@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extCountdown1",
-          "_anchor": "extCountdown1-33",
+          "_name": "extHeader15",
+          "_anchor": "extHeader15-51",
           "_styles": {
-            ".mbr-section-title DIV": {
-              "font-size": "24px",
-              "color": "#000000",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
-            ".mbr-section-title": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "22px"
+            "SPAN": {
+              "font-size": "23px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#f7da64"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">中文/​普通话</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Crypto Instant Exchange</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-4h"
         },
         {
           "_params": {
@@ -238,19 +293,6 @@
           ],
           "_name": "content5",
           "_anchor": "content5-3e"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">中文/​普通话</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Crypto Instant Exchange</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-4h"
         },
         {
           "_inherit": "msg-box8",
@@ -528,7 +570,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100012.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -2275,7 +2317,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100012.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
