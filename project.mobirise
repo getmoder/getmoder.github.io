@@ -246,7 +246,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Updates &amp; News:</b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">⁕ GETModer has adopted a high loan to coin ratio of 95%.</span></p><p><span style=\"font-style: normal;\">However a maximum C/L Ratio of 500% is possible under our special terms &amp; condition which is applicable to certain countries.</span></p><p><span style=\"font-style: normal;\">A full details of loan terms will be avaialble after the completion of GETModer Initial Token Offering</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ GETModer will be offering borrowing on bitcoin, ether, ether classic, litecoin, ripple, bitcoin cash, zcash and other major digital currencies in sizes from $100 upwards over fixed terms.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ Early Bird Offering ( closed door private sales) will be starting on 15 March 2018, for both instituitional &amp; personal participants.<br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ Early Bird Offering will be divided into 3 stages over a period of one month:</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 1 (starting 15 March)</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 2</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 3</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ If you are interested in joining the Early Bird Offering for maximum benefits, <a href=\"page7.html\">please follow this link to get whitelisted</a><br></span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-style: normal;\"><b>Updates &amp; News:</b></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">⁕ GETModer has adopted a high loan to coin ratio of 95%.</span></p><p><span style=\"font-style: normal;\">However a maximum C/L Ratio of 500% is possible under our special terms &amp; condition which is applicable to certain countries.</span></p><p><span style=\"font-style: normal;\">A full details of loan terms will be avaialble after the completion of GETModer Initial Token Offering</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ GETModer will be offering borrowing on bitcoin, ether, ether classic, litecoin, ripple, bitcoin cash, zcash and other major digital currencies in sizes from $100 upwards over fixed terms.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ Early Bird Offering ( closed door private sales) will be starting on 15 March 2018, for both instituitional &amp; personal participants.<br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ Early Bird Offering will be divided into 3 stages over a period of one month:</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 1 (starting 15 March)</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 2</span></p><p><span style=\"font-size: 1.07rem;\">- Early Bird 3</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ <b>We will soon be inviting a limited number of contributors to take part in the Early Birds Private Sale event. If you are interested in joining the Early Bird Offering for maximum benefits, <a href=\"page7.html\">please follow this link to get whitelisted</a></b><br></span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -593,7 +593,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10001.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -2340,7 +2340,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10005.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10001.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
