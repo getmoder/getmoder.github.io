@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 182,
+    "uniqCompNum": 184,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -261,6 +261,29 @@
               "color": "#1141f4"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/6hGFy3cWtrY",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-53"
         },
         {
           "_styles": {
@@ -570,7 +593,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100017.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10002.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -2317,7 +2340,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x100017.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10002.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
