@@ -160,7 +160,7 @@
             "animText3": "",
             "typeSpeed": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact_bg-1960x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -264,7 +264,7 @@
         },
         {
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -297,7 +297,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/head_bacground-1965x734.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -400,7 +400,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/icon.home_.lg_-949x826.png",
+              "src": "@PROJECT_PATH@/assets/images/icon.home-.lg-949x826.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -593,7 +593,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10005.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -640,7 +640,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080_nypfik1eg__f0008-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080-nypfik1eg-f0008-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -2085,7 +2085,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/head_bacground-1965x734.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2207,7 +2207,7 @@
           "media": {
             "image": {
               "class": "central-image",
-              "src": "@PROJECT_PATH@/assets/images/icon.home_.lg_-949x826.png",
+              "src": "@PROJECT_PATH@/assets/images/icon.home-.lg-949x826.png",
               "active": true,
               "link": "",
               "alt": "",
@@ -2340,7 +2340,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10005.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -2387,7 +2387,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080_nypfik1eg__f0008-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080-nypfik1eg-f0008-1920x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
