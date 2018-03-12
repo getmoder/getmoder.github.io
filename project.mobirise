@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 184,
+    "uniqCompNum": 189,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -239,6 +239,99 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-4h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "showTitles": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-big-2000x1250.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#41a85f",
+            "overlayOpacity": 0.3
+          },
+          "title": "&nbsp;GETModer",
+          "text": "GETMODER IS A BLOCKCHAIN-BASED DECENTRALISED MARKETPLACE FOR BORROWING AND LENDING CRYPTO ASSETS IN A SAFE\nAND LEGALLY COMPLIANT WAY.<br><br><br><b>ALL WILL BENEFIT</b><br><b><br>a) INDIVIDUALS\n<br></b>- Individuals\n<br>- Professional traders\n<br>- Cryptominers<br><br><b>b) COMPANIES\n</b><br>-Crypto Funds\n<br>-VCs\n<br>-Institutional investors\n&nbsp;<br>-Mining pools<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title1": "Decentralized",
+          "title2": "Future-ready",
+          "title3": "Integrated liquidity",
+          "title4": "Best practices&nbsp;",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_anchor": "extHeader3-58",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -593,7 +686,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10001.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
@@ -2340,7 +2433,7 @@
             "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10001.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#3d3d3d",
