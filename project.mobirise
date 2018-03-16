@@ -174,7 +174,7 @@
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
-          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Initial Token Offering\n<br>Starting 15 March 2018\n<br>Ending 31 June 2018</b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Initial Token Offering\n<br>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -948,7 +948,7 @@
           "info2": "",
           "info3": "",
           "info4": "",
-          "table": "<thead><tr><th>Stage</th><th>1 ETH</th><th>Date</th></tr></thead><tbody><tr><td><b>Early Birds</b></td><td><b>12,000 token</b></td><td><b>15March</b></td></tr><tr><td>Pre-ITO</td><td>8,000 token</td><td>15 April</td></tr><tr><td>ITO</td><td>6,000 token</td><td>15 May</td></tr><tr><td>Ending</td><td><br></td><td>15 June</td></tr></tbody>",
+          "table": "<thead><tr><th>Stage</th><th>1 ETH</th><th>Date</th></tr></thead><tbody><tr><td><b>Early Birds</b></td><td><b>12,000 token</b></td><td><b>15 April</b></td></tr><tr><td>Pre-ITO</td><td>8,000 token</td><td>15 May</td></tr><tr><td>ITO</td><td>6,000 token</td><td>15 June</td></tr><tr><td>Ending</td><td><br></td><td>15 July</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1022,7 +1022,7 @@
           "info2": "entries",
           "info3": "(filtered from",
           "info4": "total entries)",
-          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td><b>Token</b></td><td><span style=\"font-size: 17px;\"><b>GETmoder</b></span></td></tr><tr><td><b>Symbol</b></td><td><span style=\"font-size: 17px;\"><b>GTMR</b></span></td></tr><tr><td><b>Network</b></td><td><b>Ethereum</b></td></tr><tr><td><b>Total Supply</b></td><td><b>251 M</b></td></tr><tr><td><b>Circulating</b></td><td><b>150 M</b></td></tr><tr><td><b>Starting</b></td><td><b>15 March 2018</b></td></tr><tr><td><b>Ending</b></td><td><b>15 June 2018</b></td></tr><tr><td><b>Minimum</b></td><td><b>1 ETH</b></td></tr><tr><td><b>Stage 1</b></td><td><b>Early Bird</b></td></tr><tr><td><b>Stage 2</b></td><td><b>Pre-ITO</b></td></tr><tr><td><b>Stage 3</b></td><td><b>ITO</b></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Hard Cap</b></span></td><td><span style=\"font-size: 17px;\"><b>USD 12 Million</b></span></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Bounty</b></span></td><td><b>1 M Token</b></td></tr></tbody>",
+          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td><b>Token</b></td><td><span style=\"font-size: 17px;\"><b>GETmoder</b></span></td></tr><tr><td><b>Symbol</b></td><td><span style=\"font-size: 17px;\"><b>GTMR</b></span></td></tr><tr><td><b>Network</b></td><td><b>Ethereum</b></td></tr><tr><td><b>Total Supply</b></td><td><b>251 M</b></td></tr><tr><td><b>Circulating</b></td><td><b>150 M</b></td></tr><tr><td><b>Starting</b></td><td><b>15 April 2018</b></td></tr><tr><td><b>Ending</b></td><td><b>15 July 2018</b></td></tr><tr><td><b>Minimum</b></td><td><b>1 ETH</b></td></tr><tr><td><b>Stage 1</b></td><td><b>Early Bird</b></td></tr><tr><td><b>Stage 2</b></td><td><b>Pre-ITO</b></td></tr><tr><td><b>Stage 3</b></td><td><b>ITO</b></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Hard Cap</b></span></td><td><span style=\"font-size: 17px;\"><b>USD 12 Million</b></span></td></tr><tr><td><span style=\"font-size: 17px;\"><b>Bounty</b></span></td><td><b>1 M Token</b></td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -1337,9 +1337,9 @@
           "title11": "<span style=\"font-weight: normal;\">- Office re-opens</span><br><span style=\"font-weight: normal;\">- Update Roadmap</span><br><span style=\"font-weight: normal;\">- Apply GTMR token to be listed in major exchanges</span>",
           "title12": "12. Awesome Reports",
           "date1": "<b>15 April 2018</b>",
-          "date2": "<b>16 May 2018</b>",
-          "date3": "<b>16 June 2018</b>",
-          "date4": "<b>16 July 2018</b>",
+          "date2": "<b>15 May 2018</b>",
+          "date3": "<b>15 June 2018</b>",
+          "date4": "<b>15 July 2018</b>",
           "date5": "<b>28 July 2018</b>",
           "date6": "<b>28 August 2018</b>",
           "date7": "<b>28 September 2018</b>",
