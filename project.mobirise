@@ -728,7 +728,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/howitwork-1400x700.png",
+              "src": "@PROJECT_PATH@/assets/images/howitwork2-1400x700.png",
               "width": 1400,
               "link": "",
               "alt": "",
