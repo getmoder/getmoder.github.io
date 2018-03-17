@@ -296,13 +296,13 @@
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
           "media4": {
