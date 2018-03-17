@@ -2282,7 +2282,7 @@
             "inverse": false,
             "showArrow": false,
             "showFormTitle": true,
-            "countdown": "2018/06/15",
+            "countdown": "2018/04/15",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/141204142054-early-start-background-full-169-1600x900.jpg",
             "parallax": false,
