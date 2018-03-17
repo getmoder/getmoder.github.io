@@ -307,13 +307,13 @@
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "compass",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
               "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
+              "color": "#e6e6e6"
             }
           },
           "alias": "mobirise3-blocks/components",
@@ -367,38 +367,37 @@
               "name": "cash",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": 0
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": 0
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
               "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": 0
             }
           },
           "media5": {
