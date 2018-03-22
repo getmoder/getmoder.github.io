@@ -895,7 +895,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "<span style=\"font-style: normal;\">GETModer Ecosystem has adopted blockchain technology to launch Initial Token Public Offering to early participants, to fund further development of our platform.</span><br>",
+          "text": "<span style=\"font-style: normal;\">GETModer Ecosystem has adopted blockchain technology to launch Initial Token Public Offering to early participants, to fund further development of our platform.</span><br><br><span style=\"font-style: normal;\">0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1<br></span><br><span style=\"font-style: normal;\"><br></span><br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#extTable1-k\" data-toolbar=\"-mbrBtnMove\">ITO Details</a>",
           "_tags": [
             "Theme"
@@ -919,46 +919,6 @@
               "color": "#1141f4"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1",
-          "text2": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-5j"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1</blockquote>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content2",
-          "_anchor": "content2-5i"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5h"
         },
         {
           "_params": {
