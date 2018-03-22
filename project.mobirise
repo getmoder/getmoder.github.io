@@ -174,7 +174,7 @@
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
-          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Initial Token Offering\n<br>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span><br>GETModer Contribution Address:\n<br>To be announced soon !!!!!<br><span style=\"font-style: normal;\"><b>1 ETH = 12,000 GTMR Token</b></span><br><span style=\"font-style: normal;\"><b>Minimum contribution 0.1 ETH</b></span><span style=\"font-style: normal;\"><b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Initial Token Offering\n<br>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span><span style=\"font-style: normal;\"><b><br></b></span><br>GETModer Contribution Address:\n<br><b>0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1<br></b><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>1 ETH = 12,000 GTMR Token</b></span><br><span style=\"font-style: normal;\"><b>Minimum contribution 0.1 ETH</b></span><span style=\"font-style: normal;\"><b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -903,7 +903,7 @@
             "paddingBottom": "2",
             "bgColor": "#41a85f"
           },
-          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution &nbsp;0.1 ETH.</div><div><br></div><div>◎ Please use IMToken Wallet, TRUST Wallet or MyEtherWallet to receive your token</div><div>◎ Due to unpredictable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the GTMR tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
+          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH.</div><div>\n</div><div>Minimum contribution &nbsp;0.1 ETH.</div><div><br></div><div>◎ Please use <b><i>IMToken Wallet</i></b>, <b><i>TRUST Wallet</i></b> or <b><i>MyEtherWallet</i></b> to receive your token</div><div>◎ Due to unpredictable transaction traffic, please allow 2-6 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div>Make sure that you send Ether from wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise you will not be able interact with the GTMR tokens received. Do not send ETH directly from an exchange to the IEO/ICO address.</div><p></p>",
           "_tags": [
             "Theme"
           ],
