@@ -788,8 +788,12 @@ h6,
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
 }
-#testimonials4-5f .mbr-section-title {
-  font-size: 25px;
+#header3-5g .mbr-section-title,
+#header3-5g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5g .mbr-section-title {
+  font-size: 18px;
 }
 #extHeader3-58 H3 {
   font-size: 32px;
