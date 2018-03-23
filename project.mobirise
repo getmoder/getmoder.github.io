@@ -174,7 +174,7 @@
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
-          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Initial Token Offering\n<br>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>1 ETH = 12,000 GTMR Token</b></span><br><span style=\"font-style: normal;\"><b>Minimum contribution 0.1 ETH</b></span><span style=\"font-style: normal;\"><b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Initial Token Offering\n<br>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>1 ETH = 12,000 GTMR Token</b></span><br><span style=\"font-style: normal;\"><b>Minimum contribution 0.1 ETH</b></span><br><span style=\"font-style: normal;\"><b>Maximum Contribtion 20 ETH</b></span><span style=\"font-style: normal;\"><b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -259,7 +259,7 @@
             "bgColor": "#fff"
           },
           "title": "0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1",
-          "meta": "(Only One Contribtuion Address)",
+          "meta": "(Only One Contribtuion Address)<br><br>◎1 ETH = 12,000 GTMR Token\n<br><br>◎Minimum contribution 0.1 ETH\n<br><br>◎ Maximum Contribtion &nbsp;of 20 ETH per-Ethereum-address, to ensure fair share of this unique business opportunity for global particaipation&nbsp;<br>",
           "_tags": [
             "Theme"
           ],
@@ -1297,7 +1297,7 @@
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseThree\">How many token will be for sale?</a>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Will there be Follow-Up sale?</a>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Usage of raised fund?</a>",
-          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-24\" aria-expanded=\"false\" aria-controls=\"collapseSix\">Token Price</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-24\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Token Price</a>",
           "text1": "GTMR is an ERC-20 compatible token that is sold for token sale participants. GETModer aims to attract future users of the decentralized application by selling GTMR tokens that will provide 25% discount on deployment fees on GETModer, when paying with GTMR. \n<div>GETModer wants to deliver a strong token to the market by introducing airdrops for rewarding lenders and borrowers. GETModer uses part of the fees on GETModer to purchase GTMR from exchange and distribute the purchased GTMR to lenders and borrowers. The aim is to increase user adoption and provide more value for the product and for the whole GETModer project by acquiring an active user-base.</div><br>Interest Rate: Our platform does not provide predetermined interest rates, they are fully market-dependant and are set by lenders and borrowers.<div> \n</div>",
           "text2": "12,500 ETHER",
           "text3": "<p><span style=\"font-size: 1rem;\">Total supply is 251 million token.</span></p><p><span style=\"font-size: 1rem;\">1 million for bounty program.</span></p><p><span style=\"font-size: 1rem;\">Developer will hold 100 million token</span><br></p><p>150 million GTMR token will be available for public sale, dstributed in 3 stages.&nbsp;</p><p>Early Birds ; &nbsp;Pre-ITO ; ITO</p>",
