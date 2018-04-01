@@ -2776,7 +2776,7 @@
           "info2": "",
           "info3": "",
           "info4": "",
-          "table": "<thead><tr><th>Stage</th><th>1 ETH =&nbsp;</th><th>Date</th></tr></thead><tbody><tr><td><b>初期预售 1</b></td><td><b>12,000 代币</b></td><td><font color=\"#f7da64\"><b>4月15日至5月14日</b></font></td></tr><tr><td>初期预售 2</td><td>11,000 代币</td><td>5月15日至6月14日</td></tr><tr><td>初期预售 3</td><td>10,000 代币</td><td>6月15日至7月15日</td></tr><tr><td>Pre ITO</td><td>8,000 代币</td><td>将会公布</td></tr><tr><td>ITO</td><td>6,000 代币</td><td>将会公布</td></tr></tbody>",
+          "table": "<thead><tr><th>阶段</th><th>1 以太币 =&nbsp;</th><th>日期</th></tr></thead><tbody><tr><td><b>初期预售 1</b></td><td><b>12,000 代币</b></td><td><font color=\"#f7da64\"><b>4月15日至5月14日</b></font></td></tr><tr><td>初期预售 2</td><td>11,000 代币</td><td>5月15日至6月14日</td></tr><tr><td>初期预售 3</td><td>10,000 代币</td><td>6月15日至7月15日</td></tr><tr><td>Pre ITO</td><td>8,000 代币</td><td>将会公布</td></tr><tr><td>ITO</td><td>6,000 代币</td><td>将会公布</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
