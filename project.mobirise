@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 205,
+    "uniqCompNum": 238,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -237,7 +237,7 @@
             "paddingBottom": "1",
             "bgColor": "#f7da64"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">中文/​普通话</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://getmoder.exchange/\" data-toolbar=\"-mbrBtnMove\">Crypto Instant Exchange</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page8.html\" data-toolbar=\"-mbrBtnMove\">中文/​普通话</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://getmoder.exchange/\" data-toolbar=\"-mbrBtnMove\">Crypto Instant Exchange</a>",
           "_tags": [
             "Theme"
           ],
@@ -1634,7 +1634,7 @@
           "title4": "Social Network",
           "title5": "Disclaimers",
           "title6": "Appointed Regional Marketers",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"false\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"false\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Social</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\" aria-expanded=\"false\">Disclaimers</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\" aria-expanded=\"true\">Appointed Marketers</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-m\" aria-expanded=\"false\">Whitepaper</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-m\" aria-expanded=\"true\">Team</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-m\" aria-expanded=\"false\">Github</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-m\" aria-expanded=\"true\">Social</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-m\" aria-expanded=\"false\">Disclaimers</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link text-white\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-m\" aria-expanded=\"true\">Appointed Marketers</a></li>",
           "text1": "Still in the developmental stage and will be available after 25% completion of the GTMR token sales",
           "text2": "*(Full team profile will be published on this site after 25% completion of the GTMR token sales.)<br><br><b>Arthur Smith – CEO, Founder and Lead Developer</b>\n<br>Former site developer and security analyst for a data center and cyber security company that was\n<br>based out of Texas. Expertise in website and software development, along with information security.\n<br>Blockchain researcher and analyst.\n<br><br><b>Buck Wisely– COO, Co-Founder and Marketing Director\n</b><br>Elias has worked a government job that specializes in cyber security, as well as software and web\n<br>development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n<br>keeps the users in mind and will do anything possible to better MIT Ecosystem.<br>\n<br><b>Nonyang Ngam– CFO, Co-Founder and Business Analyst</b>\n<br>Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution\nthat is beginning to take hold in our current financial systems. Expertise in financial modeling.<br><br><b>Steve Howsley– Lead of Technical Operations\n</b><br>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and\nsetting up servers with security in mind.<br>",
           "text3": "<a href=\"https://github.com/getmoder/IEO\">https://github.com/getmoder/IEO</a><br><br>The s<a href=\"https://github.com/getmoder/IEO\" class=\"text-white\">mart contract might be updated or changed to enhance platform efficiency.</a><br><br>",
@@ -1688,7 +1688,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Contact",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1890,7 +1890,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Terms and Conditions ",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2028,7 +2028,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Privacy Policy",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2166,7 +2166,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Early Bird Whitelisting",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2381,7 +2381,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Chinese",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2517,6 +2517,1555 @@
               "text-align": "center"
             }
           }
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Mandarin",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#2969b0",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extToggle1-24\">FAQ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\">中文/​普通话</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"https://getmoder.exchange/\">GETModer Exchange</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#1f5087"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#2662a4!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2969b0"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e25041!important"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-200-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GETModer</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-5p"
+        },
+        {
+          "_params": {
+            "showLogo": false,
+            "showTitle": false,
+            "showText": true,
+            "showCountdown": true,
+            "showForm": false,
+            "showArrow": false,
+            "imageSize": "19",
+            "countdown": "2018/04/15",
+            "animText1": "",
+            "animText2": "",
+            "animText3": "",
+            "typeSpeed": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x1000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.3"
+          },
+          "title": "OUR ",
+          "title2": "IS COMING SOON!",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer\n</b></span><br><span style=\"font-style: normal;\"><b>Early Birds Event&nbsp;</b></span><b> (初期预售)</b><br><span style=\"font-style: normal;\"><b>代币首次發售</b></span><span style=\"font-style: normal;\"><b><br>从2018年4月15日开始\n<br>2018年7月15日结束\n<br>1 ETH = 12,000 GTMR代币\n<br>最低贡献 0.1 ETH (以太币)\n<br>最大贡献 20 ETH (以太币)<a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/earth-img-991x991.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "size": 0,
+              "color": "#ffffff",
+              "family": "et-line"
+            }
+          },
+          "form": {
+            "action": "firdauslee.rhb@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader15",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "20px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "extHeader15-5q"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#f7da64"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">English Version</a> <a data-app-btn=\"true\" class=\"btn btn-danger-outline btn-danger\" href=\"https://getmoder.exchange/\" data-toolbar=\"-mbrBtnMove\">Crypto Instant Exchange</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "18px"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#232323",
+              "font-size": "17px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<span style=\"font-size: 17px; font-weight: normal;\">GETModer是基于区块链的分散式(去中心化)平台：</span><br><br><span style=\"font-size: 17px; font-weight: normal;\">\n</span><div><span style=\"font-size: 17px; font-weight: normal;\">a）以安全合法的方式借入和借出加密数字货币资产。\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">b）与 Instant cryptocurrency Exchange (快速加密数字货币转换/兑换站/中心) 整合为一个平台\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">初期预售优惠配套1（私人销售活动）\n</span></div><div><span style=\"font-size: 17px;\">0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">（只有一个贡献地址）\n</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 1 ETH (以太币) = 12,000 GTMR代币\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 最小贡献0.1 ETH (以太币)</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">\n</span></div><span style=\"font-weight: normal;\">◎ 最大贡献 20 ETH (以太币)<br></span><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 每个以太坊地址以20个ETH(以太币)为最大贡献，以确保公平分享这个独特的全球参与商业机会</span></div><br><div><span style=\"font-size: 17px;\">0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">（只有一个贡献地址）\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div>",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5s"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "5",
+            "colCount": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/picture13-1281x721.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2b0680",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<span style=\"font-weight: normal;\">GETModer是全球金​​融技术区块链公司和借贷及融资服务供应商，为其贡献者在初期预售优惠配套的预售代币事件中启动私人销售.</span><br><span style=\"font-weight: normal;\">该活动将于2018年4月15日开始.</span>",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "",
+          "info3": "",
+          "info4": "",
+          "table": "<thead><tr><th>Stage</th><th>1 ETH =&nbsp;</th><th>Date</th></tr></thead><tbody><tr><td><b>初期预售 1</b></td><td><b>12,000 代币</b></td><td><font color=\"#f7da64\"><b>4月15日至5月14日</b></font></td></tr><tr><td>初期预售 2</td><td>11,000 代币</td><td>5月15日至6月14日</td></tr><tr><td>初期预售 3</td><td>10,000 代币</td><td>6月15日至7月15日</td></tr><tr><td>Pre ITO</td><td>8,000 代币</td><td>将会公布</td></tr><tr><td>ITO</td><td>6,000 代币</td><td>将会公布</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "TH": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            "TD": {
+              "color": "#ffffff",
+              "font-size": "17px"
+            },
+            "B": {
+              "color": "#f7da64",
+              "font-size": "17px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "extTable1-5t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>GETModer Early Birds (初期预售优惠配套)</p><p><br></p><p><b>1. 什么是初期预售优惠配套的私人销售活动？</b></p><p>初期预售优惠配套私人销售活动是人们在代币上市前购买代币的独家“初期预售优惠”机会。\n</p><p>\n</p><p><br></p><p>预售通常与公开发售相比具有两大优势：\n</p><p>1）价格。代币价格比公开销售便宜得多\n</p><p>2）奖金。早期买家可以在预售阶段获得额外的免费红利，而这往往不会发生在当代币进入公开销售阶段\n</p><p>\n</p><p>初期预售优惠配套私人销售活动只对认可的投资者开放。并非每个人都有机会参与Early Birds (初期预售) 的推广活动，而是专门为战略买家，家庭成员，亲密朋友，商业伙伴和其他社会成员等特殊人群提供服务.\n</p><p>\n</p><p><br></p><p>我们将很快邀请数量有限的参与者参加Early Birds (初期预售)Private Sale(私人销售)活动。如果您有兴趣参加将提前获得优惠，请点击此链接进入优惠名单.</p><p><br></p><p><b>2. 初期预售优惠配套细节</b></p><p>私人销售从2018年4月15日开始，到2018年7月15日结束，或所有私人销售代币已售出，以较早者为准。\n</p><p>\n</p><p>我们将会在三个不同的阶段为私人销售分配了1.5亿可用的代币供应。\n</p><p>\n</p><p>1 ETH (以太币) 将在初期预售优惠配套(一)期间为您带来12,000个GTMR代币。请参阅上表，了解私人销售活动每个阶段的代币分配情况。\n</p><p>\n</p><p>销售额上限：12,500 ETHER (以太币)\n</p><p>\n</p><p>购买代币：ETH(以太币)是唯一的代币，将被接受为私人销售期间的购买代币。我们将向您提供ETH(以太币)付款发送的地址当您被接纳为我们的Early Birds参与者.</p><p><br></p><p><b>3. 私人销售活动何时关闭？公开销售何时会进行？</b></p><p>GETModer初始代币发行事件中只有两种众筹：\n</p><p>a）初期预售优惠配套的私人销售\n</p><p>b）公开销售（Pre-ITO＆ITO)</p><p><br></p><p>总销售额上限为12,500 ETHER (以太币)</p><p><br></p><p>如果在Early Birds Private Sales(初期预售优惠配套的私人销售)活动中的任何阶段完全售罄1.5亿GTMR代币，GETModer基金会将立即在本网站上宣布和结束代币活动，而不会发行Public Pre-ITO和ITO。然后，GETModer将继续进行代币销售审计报告，路线图和准备Getmoder将公布的交易所信息，并在此网站上提供详细信息。</p><p><br></p><p>但是，如果在Early Birds(初期预售优惠配套)事件期间出现任何未售出的代币，这些未售出的代币将自动转移至Pre-ITO，其日期将在整个Early Birds(初期预售优惠配套)事件完成后公布。因此，公开销售（Pre-ITO和ITO）将在私人销售结束后开始。</p><p><br></p><p><b>4. 路线图和团队简介\r</b></p><p>在完成Roadmaps (路线图)＆Team Profile(团队简介)详细信息后，我们将会在Early Birds(初期预售优惠配套)活动中完成代币销售25％后发布。</p><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-6i"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#1164f4"
+          },
+          "text": "<p><span style=\"font-size: 1.07rem;\">每逢在发送ETH之前，请检查URL并验证贡献地址</span><br></p><div>我们只接受 ETH</div><div>最低贡献 0.1 ETH</div><div>最大贡献 20 ETH</div><div><br></div><div>◎请使用IMToken Wallet，TRUST Wallet或MyEtherWallet来接收您的代币\n</div><div>◎由于不能预知交易的流量，请允许我们在24小时之内将我们的代\n</div><div>币转入给您的ERC20电子钱包.</div><div><br></div><div>确保您所使用的钱包能支持ERC20代币或则您有掌控那钱包的私钥\n<span style=\"font-size: 1.07rem;\">，才能使用那钱包的地址来发送Ether</span></div><div><span style=\"font-size: 1.07rem;\">否则，您将无法使用&nbsp;</span><span style=\"font-size: 1.07rem;\">GTMR代币. 不要直接将ETH(以太币)从交易所发送到贡献地址.</span></div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-5v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "13",
+            "colCount": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/thrn06-compressor-2000x1125.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.1"
+          },
+          "title": "GETModer贡献事件",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>项目</th><th>细节</th></tr></thead><tbody><tr><td><b>代币</b></td><td><span style=\"font-size: 17px;\"><b>GETmoder</b></span></td></tr><tr><td><b>符号</b></td><td><span style=\"font-size: 17px;\"><b>GTMR</b></span></td></tr><tr><td><b>网络</b></td><td><b>以太坊</b></td></tr><tr><td><b>总共数量</b></td><td><b>2.51亿</b></td></tr><tr><td><b>市场流通</b></td><td><b>1.50亿</b></td></tr><tr><td><b>代币首次發售</b><br><b>(Early Birds)</b><br><b>开始</b></td><td><b>4月15日 2018</b></td></tr><tr><td><b>代币首次發售\n<br>(Early Birds)<br>结束</b></td><td><b>7月15日 2018</b></td></tr><tr><td><b>最低贡献</b><br><b>最大贡献</b></td><td><b>0.1 ETH</b><br><b>20 ETH</b></td></tr><tr><td><b>Pre-ITO</b></td><td><b>将会公布</b></td></tr><tr><td><b>ITO</b></td><td><b>将会公布\n<br></b></td></tr><tr><td><b>众筹资助代币</b></td><td><b>ETHER (以太币)</b></td></tr><tr><td><b>总共众筹目标</b></td><td><span style=\"font-size: 17px;\"><b>12,500 ETHER</b></span></td></tr><tr><td><span style=\"font-size: 17px;\"><b>赏金</b></span></td><td><b>100万代币</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "TH": {
+              "font-size": "17px"
+            },
+            "B": {
+              "font-size": "17px"
+            },
+            "TD": {
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "extTable1-5w"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>一般常见问题解答</b></p><p><b><br></b></p><p><b>1. 什么是GTMR?</b></p><p>GTMR是ERC-20兼容代币，出售给代币销售参与者。 GETModer 旨在通过出售GTMR代币来吸引分散式(去中心化)应用程序的未来用户，这些代币在使用GTMR支付时将为GETModer提供25％的部署费用折扣。\n</p><p>\n</p><p>GETModer希望向市场传递强大的代币。GETModer利用部分的费用购买交易所的GTMR，并将购买的GTMR分配给贷方和借方。藉着活跃的用户群，其目标乃是要增加用户的接受程度并为产品和整个GETModer项目提供更多价值。\n</p><p>\n</p><p>利率：我们的平台不提供预定的利率，它们完全取决于市场，由贷款人和借款人设定。</p><p><br></p><p><b>2. GTMR ITO 的资金目标？</b></p><p>12,500 ETHER(以太币)</p><p><br></p><p>量总计为2.51亿代币。奖金计划为100万美元。\n</p><p><br></p><p>开发人员将持有1亿代币\n</p><p><br></p><p>1.5亿GTMR代币将公开发售，分为三阶段发布。初期预售; 預售ITO; ITO</p><p><br></p><p><b>3. 会有后续销售吗？\n</b></p><p>不会。在代币销售后不会有更多的GTMR可供出售。</p><p><br></p><p><b>4. 募集资金的使用情况？</b></p><p>ETH(以太坊)将用于进一步开发GETModer平台和未来项目背后的技术。\n</p><p>以下提供了GETModer的资金分配 ：\n</p><p>30％用于核心发展\n</p><p>20％用于用户体验发展\n</p><p>20%用于GETModer管理\n</p><p>20%用于促销活动\n</p><p>10％用于额外不在预期的费用</p><p><br></p><p><b>5. </b><span style=\"font-size: 1.07rem;\"><b>代币价格</b>&nbsp;</span></p><p>GTMR代币将被列入次要和主要加密货币交易所。包括LiveCoin， Ku Coin，Poloneix，Binance，Bittrex，HITBTC，CoinExchange\r</p><p>，Gate IO等。投放市场的时间表将在ITO完成后发布。\r</p><p><br></p><p>预计首次上市价格将约为0.12美元\r</p><p><br></p><p>我们的目标（非承诺）乃是长期价格至少为26.00美元/代币。\r</p><p><br></p><p>这26美元的实际预测价格基于：\r</p><p>a. 一个高利润的未来项目和平台\r</p><p>b. 真正的项目\r</p><p>c. 高功能加密数字货币转换/兑换站/中心</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "17px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "17px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a8d4ec",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.8"
+          },
+          "title": "GETModer首次发售（ITO)<br>符号：GTMR<br><br><span style=\"font-weight: normal;\">凭着15年的专业技术，GETModer 提供世界上最好的即时加密数字\n</span><span style=\"font-weight: normal;\">货币贷款，与 instant Cryptocurrency Exchange (加密数字货币转换\n/兑换站/中心) 整合，推动其主要核心业务。</span>",
+          "caption": "<div><span style=\"font-size: 1.07rem;\">GETModer是一家专注于加密数字货币贷款和加密数字货币交换站/ 中心的机构混合型区块链技术公司。我们开发了以太坊网络支持的高度可扩展，安全，许可和商业级平台架构。</span></div><div>\n</div><div><br></div><div><span style=\"font-size: 1.07rem;\">GETModer生态系统管理团队和开发商已决定采用区块链众筹机制初始代币发售（ITO）来支持和资助我们未来的加密数字货币项目</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div><span style=\"font-size: 1.07rem;\">最初的代币发行或ITO是投资者参与我们的加密数字货币项目的切入点。</span></div><div><br></div><div>\n</div><div>\n</div><div>在ITO活动期间将产生总计2.51亿个GTMR（ERC20）代币，其中<span style=\"font-size: 1.07rem;\">1.5亿代币可用于公众投资者，开发团队将持有1亿代币。1 百万&nbsp;</span><span style=\"font-size: 1.07rem;\">GTMR 代币将保留给赏金计划。总共众筹目标设定为2000万美元。任何未售出的代币将在ITO活动结束后被烧毁。 ITO贡献的通用货币仅限 ETHER (以太币)。最小贡献为0.1 ETHER(以太币)。最大贡献 20 ETH (以太币)</span></div><div><br></div><div>GETModer ITO Event 将分为2个阶段，</div><div>1) Early Bird(初期预售)</div><div>2) Pre-ITO(预售)和 ITO</div><div><br></div><div>Early Bird (初期预售)官方贡献活动将于2018年4月15日开始，并于2018年7月15日结束。</div><div><br></div><div>GTMR代币将被列入次要和主要加密货币交易所。包括LiveCoin， Ku Coin，Poloniex，Binance，Bittrex，HITBTC，CoinExchange\n</div><div>，Gate IO等。确切上市到交易平台的时间表将在 ITO 完成后发布。</div><div><br></div><div>\n</div><div><b>代币定价\n</b></div><div>预计首次上市价格将约为 0.12 美元\n<span style=\"font-size: 1.07rem;\">当我们所有未来的盈利項目投入运行（在完成ITO后的18个月内)&nbsp;</span><span style=\"font-size: 1.07rem;\">时，我们的目标（非承诺）的长期预测价格至少为26.00美元/代币&nbsp;</span><span style=\"font-size: 1.07rem;\">，与发布相关我们未来的产品和平台。</span></div><div>\n</div><div><br></div><div><b>*代币的功能和好处\n</b></div><div>GTMR代币将被用作GETModer生态系统中任何平台使用的支付加密数字货币的主要平均值。\n</div><div>-作为我们融资目的平台的主要加密数字货币\n</div><div>-用作为平台费来处理贷款人和借款人的贷款\n</div><div>-可作为特别折扣的密码贷款的抵押品\n</div><div>-释放数字资产的价值，保持资产上行潜力\n</div><div>-GTMR代币的全球需求因公用事业目的而增加，加上固定的有限供应，可能刺激价格变动，从而使未来价值稳定增长。</div><div><span style=\"font-size: 1.07rem;\"><b><i><br></i></b></span></div><div><b>什么是ITO？\n</b></div><div>ITO通常代表公开发行的初始代币，在新的加密货币出现之前，个人或公司需要为所有技术开发或将来的平台/产品筹集资金。所以\n</div><div>，他们通常会在交易平台出售代币以换取更成熟的加密货币。\n</div><div><b><i><br></i></b></div><div>GTMR代币需求是由用户的增长以及代币在平台上的使用所驱动\r<span style=\"font-size: 1.07rem;\">的。</span></div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-5y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "showTitles": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-big-2000x1250.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#41a85f",
+            "overlayOpacity": 0.3
+          },
+          "title": "&nbsp;GETModer",
+          "text": "GETMODER是一个以去中心化区块链的市场來讓数字资产能够安全和合法的方式來借贷和支付. 与此同时经营即时数字货币兑换中心\n<br><br>◎从贷款中生产收入\n<br><br>◎提高用于抵押数字货币的流动性\n<br><br>◎提供加密数字货币投资期货<br><br>----------------------<br>所有人都会受益<br><b><br>a）个人</b>\n<br>-个人\n<br>-专业贸易商\n<br>-矿机经营者<br><br><b>b）公司\n</b><br>-加密数字基金\n<br>-风险投资基金\n<br>-投资机构\n<br>-矿池经营者<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title1": "去中心化",
+          "title2": "面向未来",
+          "title3": "I综合资金流动性",
+          "title4": "最佳实践&nbsp;",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "expand",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "compass",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader3",
+          "_styles": {
+            "H3": {
+              "font-size": "32px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extHeader3-5z"
+        },
+        {
+          "_inherit": "features3",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#00a885",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "cash",
+              "family": "MobiriseIcons",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title1": "通过借贷数字货币资产来赚取利息",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "根据您的条款寻找客户“租用”您的加密资产。您的抵押品将由智能合约安全地保管。",
+          "title2": "提高数字货币流动性同时拥有加密数字资产",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "不需要出售您保存已久的数字货币资产来获取流动数字货币资产。您无\n需额外的权益就能扩大您的投资组合",
+          "title3": "借贷加密数字货币投资期货",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "加密资产是易变的。每当市场下滑时都能在任何资产中（不仅仅是最流动的）赚取利益&nbsp;<br>",
+          "title4": "涵盖库存差距",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "借贷给你在市场所需的任何资产*。使用B2C和B2B现金流的流动性来降低短期风险。<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features6",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features6-60"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><p><b>更新和新闻：</b></p><p><span style=\"font-style: normal;\">⁕GETModer采用了高达95％的借贷比例。\n</span></p><p><span style=\"font-style: normal;\">但是，根据我们特殊的条款和条件，最高C / L比率可达到500％，\n</span><span style=\"font-size: 1.07rem;\">这只适用于某些国家/地区。GETModer 完整的贷款条款细节将会在初始/预售代币发行完成后告知</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">⁕ GETModer将提供比特币，以太币，以太经典，莱特币，波纹，  比特币现金，zcash和其他主要数字货币的借贷，从固定条款100 美元起。</span></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "color": "#1141f4"
+            }
+          },
+          "_anchor": "content2-61"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://youtu.be/1L1vmE6HAgA",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-62"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/head-bacground-1965x734.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "GETModer：我们是個機構級的加密数字货币大平台\n<div><br></div><div>产品：加密数字货币借贷和即时加密数字货币兑换中心\n</div><div><br></div><div><b>使命</b>：\n</div><div>1）与传统融资相比(个人和中小企业) 我们的融资市场无边界，透明和流动。\n</div><div>2）加密数字货币即时兑换站提供最好的兑换率及最快速的服务。\n</div><div>\n</div><div><br></div><div><b>愿景</b>：\n</div><div>我们的目标是\n</div><div>1）创建一个全球性的商业/个人加密数字货币资产借贷及融资平台。\n</div><div>2）促进即时加密数字货币交换</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-63"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".lead": {
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-4-1920x550.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#f3c649",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">GETModer Ecosystem consists of 2 crypto products</span>",
+          "text": "<p><b>GETModer生态系统\n</b></p><p>在其历史发展中，GETModer通过创造创新和便利的融资解决方案\n</p><p>GETModer已有被识别成功解决借贷市场的低效问题\n</p><p>通过应用区块链技术，GTMR代币是GETModer解决新数字经济融\n</p><p>资不足问题的答案/解决方案。</p><p><br></p><p><b>GETModer生态系统包括：</b>\n</p><p>a）加密数字货币的借贷\n</p><p>b）加密数字货币的即时兑换站</p><p><b><br></b></p><p>实用程序代币：GETModer\n</p><p>区块链：以太坊符 号 ：GTMR 总计：2.51亿\n</p><p>交场流通发售：1.5亿</p><p><br></p><p><b>A）无边界加密数字货币融资</b>\n</p><p>这个问题已经明显的浮现了一段时间- 今天卖及消费/使用密码资产\n</p><p>\n</p><p>会阻止加密货币持有者获得任何未来资产价值的增长的利益 ; 低价购买的持有者需要保留自己的投资，以便将来在高价位时卖出从中获益。\n</p><p>利用区块链和智能合约为去中心化借贷协议提供去中心化且安全的金融市场。</p><div><b>\n</b></div><div><b><br></b></div><div><b>对于借款人：</b>GETModer平台允许您根据您的加密货币资产所持有的当前价值进行流动资金的即时借款。你可拿到一笔贷款，用比特币或以太币等资产进行抵押 - 并以此获得一笔稳定货币的商业贷款。偿还贷款后，你便收到你的全部抵押品;即使抵押品己经增值多次。这样，您就可以获得流动资金以满足当前的需求，并且可以在高贷款率的同时拥有同样的数字货币。</div><div><br></div><div><b>对于贷款人：</b>借贷机会开放给全球市场/希望成为贷款人的任何人开放。我们保证全额还款和无风险，因为所有贷款都有借款人的加密数字货币资产为担保。</div><div><br></div><div><b>奖励措施：</b>我们的加密数字货币项目的参与者（请参阅下面的&nbsp;<span style=\"font-size: 1.07rem;\">GETModer ITO）将享有贷款和借款的特殊费率。</span></div><div>\n</div><div><b><br></b></div><div><b>利润目标：</b>贷款和借款的手续费目标：每天120万美元的融资额</div><div><b style=\"font-size: 1.07rem;\"></b></div><div><span style=\"font-size: 1.07rem;\"><b><br></b></span></div><div><br></div><div>\n</div><div>\n</div><div><b>B)&nbsp;</b><b style=\"font-size: 1.07rem;\">即时加密数字货币兑换站</b></div><div><b style=\"font-size: 1.07rem;\"></b><br></div><div>我们的即时钱包与钱包交换允许您交换加密数字货币，无需在任何交易所注册或需要验证。总公司已有超过700,000名客户，每月处理超过50,000 BTC。我们的平台与Jaxx, Coinmarketcap，Bittrex\n<span style=\"font-size: 1.07rem;\">，Coinpayments，Uquid借记卡，Coinomi和其他知名公司合作。提供各种加密数字货币交易使该平台特别具有吸引力。它创造了一个以极少的麻烦交换任何两种货币的方便。传统的加密货币交易平台通常对交易配对的选择范围有限，这意味着有时用户必须进行多笔交易才能收到他们想要的加密货币。现金货币应用功能与信用卡和借记卡的购买功能将被添加到我们的交易所，以便大家应用。&nbsp;</span></div><div>\n</div><div><br></div><div><b>奖励措施：</b>根据对加密货币交易的深入技术分析，我们将提供最有利可图的免费交易信号。因此，鼓励大众用户使用我们的交换平台<span style=\"font-size: 1.07rem;\">，毕竟这是个免费信息。</span></div><div><span style=\"font-size: 1.07rem;\"></span><br></div><div><b>我们的利润：</b>加密数字货币转换/兑换站/中心交易费用\n</div><div><br></div><div><b>目标：</b>每天1亿美元的交换量。该货币兑换所赚取的收入的60％将用于回购在市场上流通的GTMR代币，以资助我们的贷款平台。</div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#extTable1-23\" data-toolbar=\"-mbrBtnMove\">Initial Token Offering</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-64"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "30px"
+            },
+            "P": {
+              "font-size": "19px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/5a525d0a30cd7400011b499a-new-hero-2000x1117.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/icon.home-.lg-949x826.png",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont-features6",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title": "GETModer特征",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "feature_title1": "加密数字货币的融资",
+          "feature_subtitle1": "",
+          "feature_text1": "加密数字货币的融资与传统融资相比(个人和中小企业)的融资市场无边界相比之下，显\n<br>得更加透明和流动。",
+          "feature_title2": "加密数字货币即时交换/兑换站",
+          "feature_subtitle2": "",
+          "feature_text2": "大整合。我们的安全即时钱包与钱包交换允许您交易加密货币，无\n<br>需在任何交易所注册或需要验证。",
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title4": "快速和简单",
+          "feature_subtitle4": "",
+          "feature_text4": "处理迅速。",
+          "feature_title5": "竞争优势&nbsp;",
+          "feature_subtitle5": "",
+          "feature_text5": "我们的竞争优势体现在于我们拥有超过10年经验的业务知识 - 高效的商业模式，尖端的技术解决方案和富有远见的管理是我们长期成功的关键驱动因素",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures1",
+          "_anchor": "extFeatures1-65"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-wrapper-4-1920x550.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f7da64",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/coins-bg-1207x506.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SOLID COLOR INTRO WITH IMAGE",
+          "text": "即时加密数字货币转换/兑换站/中心",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://getmoder.exchange/\" data-toolbar=\"-mbrBtnMove\">兑换站/中心</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "font-size": "21px"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "msg-box5-67"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-bg-1960x10000.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#3d3d3d",
+            "bgText": "Animated text background",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#5e5546",
+            "bgTextSize": "50",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "为早期/初期预售参与者介绍GETModer代币<br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "24px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "extMsg-box4-68"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<div>以下是一个功能有限的演示平台。\r</div><div>\r</div><div>在最终的产品发布中，UI，设计和功能将有很大不同。\r</div><div><br></div><div>在生产版本中，系统会自动匹配所有计数器优惠。出于测试目的，\r<span style=\"font-size: 1.07rem;\">现在只能从贷方手动批准。&nbsp;</span></div><div><span style=\"font-size: 1.07rem;\"><br></span></div><div>当您使用GTMR作为贷款的抵押品时，我们已经设定了0.12美元作为当前汇率。然而，在交易所上市后，此汇率将按市场平均值计算。</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-69"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n    <iframe id=\"JotFormIFrame-80902884754466\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" src=\"https://form.jotform.me/80902884754466\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80902884754466\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
+          ],
+          "_anchor": "custom-html-6a"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n    <iframe id=\"JotFormIFrame-80902646154456\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" src=\"https://form.jotform.me/80902646154456\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80902646154456\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
+          ],
+          "_anchor": "custom-html-6b"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n  \n    <iframe id=\"JotFormIFrame-80903086354457\" onload=\"window.parent.scrollTo(0,0)\" allowtransparency=\"true\" allowfullscreen=\"true\" src=\"https://form.jotform.me/80903086354457\" frameborder=\"0\" style=\"width: 1px;\n      min-width: 100%;\n      height:539px;\n      border:none;\" scrolling=\"no\">\n    </iframe>\n    {JS_CODE_0}",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n      var ifr = document.getElementById(\"JotFormIFrame-80903086354457\");\n      if(window.location.href && window.location.href.indexOf(\"?\") > -1) {\n        var get = window.location.href.substr(window.location.href.indexOf(\"?\") + 1);\n        if(ifr && get.length > 0) {\n          var src = ifr.src;\n          src = src.indexOf(\"?\") > -1 ? src + \"&\" + get : src  + \"?\" + get;\n          ifr.src = src;\n        }\n      }\n      window.handleIFrameMessage = function(e) {\n        var args = e.data.split(\":\");\n        if (args.length > 2) { iframe = document.getElementById(\"JotFormIFrame-\" + args[(args.length - 1)]); } else { iframe = document.getElementById(\"JotFormIFrame\"); }\n        if (!iframe) { return; }\n        switch (args[0]) {\n          case \"scrollIntoView\":\n            iframe.scrollIntoView();\n            break;\n          case \"setHeight\":\n            iframe.style.height = args[1] + \"px\";\n            break;\n          case \"collapseErrorPage\":\n            if (iframe.clientHeight > window.innerHeight) {\n              iframe.style.height = window.innerHeight + \"px\";\n            }\n            break;\n          case \"reloadPage\":\n            window.location.reload();\n            break;\n          case \"loadScript\":\n            var src = args[1];\n            if (args.length > 3) {\n                src = args[1] + ':' + args[2];\n            }\n            var script = document.createElement('script');\n            script.src = src;\n            script.type = 'text/javascript';\n            document.body.appendChild(script);\n            break;\n          case \"exitFullscreen\":\n            if      (window.document.exitFullscreen)        window.document.exitFullscreen();\n            else if (window.document.mozCancelFullScreen)   window.document.mozCancelFullScreen();\n            else if (window.document.mozCancelFullscreen)   window.document.mozCancelFullScreen();\n            else if (window.document.webkitExitFullscreen)  window.document.webkitExitFullscreen();\n            else if (window.document.msExitFullscreen)      window.document.msExitFullscreen();\n            break;\n        }\n        var isJotForm = (e.origin.indexOf(\"jotform\") > -1) ? true : false;\n        if(isJotForm && \"contentWindow\" in iframe && \"postMessage\" in iframe.contentWindow) {\n          var urls = {\"docurl\":encodeURIComponent(document.URL),\"referrer\":encodeURIComponent(document.referrer)};\n          iframe.contentWindow.postMessage(JSON.stringify({\"type\":\"urls\",\"value\":urls}), \"*\");\n        }\n      };\n      if (window.addEventListener) {\n        window.addEventListener(\"message\", handleIFrameMessage, false);\n      } else if (window.attachEvent) {\n        window.attachEvent(\"onmessage\", handleIFrameMessage);\n      }\n      </script>"
+          ],
+          "_anchor": "custom-html-6c"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#1141f4",
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f7da64",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "expand",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#e6e6e6"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "对ITO贡献者的好处",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "1.以透明的商业模式为独特和前瞻性的项目做出贡献。\n<br><br>2. 贡献者的优惠贷款条款和条件。\n<br><br>3.您可以以较低的费用获得GTMR代币的担保。<br>\n<br>4.有权获得提前奖励。 1 ETH = 12,000 GTMR代币<br><br><br>",
+          "title2": "贷款人的好处",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "<b>1.自动资金管理\n</b><br>制定贷款的条款和条件，系统将自动估算市场环境以创建订单。偿还贷款后，系统将继续创建订单。\n<br><br><b>2.最小风险\n</b><br>所有贷款的全额偿还包括利息在内没有延误。\n<br><br><b>3.没有限制\n</b><br>最低贷款金额为100美元，活动贷款的最高金额和数量仅限于您的\n预算。\n<br><br><b>4.没有障碍\n<br></b>任何个人或法人都可以在没有任何许可证的情况下成为贷款人。\n<br><br><b>5.灵活设置贷款条款和条件\n</b><br>可以单独指定给予贷款的最佳条款和条件。\n<br><br><b>6.全球覆盖\n</b><br>国际借款人的观众在批准贷款时取消了边界。\n<br><br><b>7.可靠性和安全性</b>\n<br>完全合法的地位和受保护的基础设施将确保资金的安全。\n<br><br>借贷机会向全球市场/希望成为贷款人的任何人开放。我们保证全额还款和无风险，因为所有贷款都以借款人的加密数字货币资产为担保。如果不偿还贷款，质押的加密数字货币资产将被系统自动清算（出售），包括利率在内的资金将全额偿还贷款人。\n<br><br>收入：APR 12％。\n<br>贷款人只向我们存入88％的贷款资金。\n<br>贷款合同到期时，100％的贷款资金将转入贷方&nbsp;<br>",
+          "title3": "对借款人的好处",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<b>1.保留加密数字货币资产</b>\n<br>如果你需要钱，现在不需要出售加密数字货币资产。\n<br><br><b>2.灵活的贷款条款和条件</b>\n<br>个别评估风险和选择贷款条款和条件允许在最佳条款和条件下获得\n<br>贷款。\n<br><br><b>3.义务再融资</b>\n<br>再融资义务的可能性允许轻松延长贷款期限。\n<br><br><b>4.没有信用检查\n</b><br>无需查看信用记录并证明您的支付能力。\n<br><br><b>5.个人贷款管理</b>\n<br>可以随时通过以当前市场价格清算（出售）部分贷款来结束贷款。\n<br><br><b>6.支持流行/稳定的加密数字货币资产\n</b><br>可以使用比特币，以太坊等流行的加密数字货币资产作为贷款担保品。\n<br><br>持有你的加密数字货币资产，拿到你的现金。让您利用您的区块链资产来获得现金贷款。通过简化贷款，客户无需出售喜欢的加密数字货币投资而轻松拿到钱。通过关注借款人区块链资产的价值而不是信用评分来简化申请流程。在贷款期限内，保证抵押资产安全并锁定在完全审计的超安全架构中，以便成员可以放心借用。\n<br><br><b>贷款如何运作？\n</b><br>1.贷款创建 - 借款人向贷方抵押品钱包发放抵押品，并将资金/代币转移到借款人的钱包账户。抵押品仍是借款人的财产，任何价格升值或贬值都属于借款人。\n<br>2.贷款还款 - 借款人及时定期向贷方支付款项。\n<br>3.贷款完成 - 偿还贷款后，借款人的抵押品将退还。\n<br><br>该平台不会提供预先设定的利率。这将完全取决于市场。贷款人将在他/她的贷款申请中设定利率，并且借款人将陈述获得贷款所意愿的利率。系统会自动将匹配的应用程序放在一起。\n<br><br><b>错过了付款</b>\n<br>如果借款人错过了付款，SLBN将清算一部分的抵押品以抵消未付款项和任何相关费用。如果借款人继续错过付款，抵押品将继续被清算以支付每月支付的本金，利息和费用，直至贷款与价值比率超过预定阈值。一旦违约达到上述触发门槛，抵押品的余额将被清算以弥补错过的支付并校准超额抵押。这个过程一直持续到贷款完全退出或成熟。贷款人可以选择以原初贷款的货币或区块链资产的等值价格来获得资金。在贷款本金和应计费用从抵押品中支付完后， 任何剩余资产将返还给借款人。<br>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#1141f4 !important"
+            },
+            ".wraper": {
+              "border-color": "#1141f4 !important"
+            }
+          },
+          "_anchor": "extFeatures5-6d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true,
+            "iconsColor": "#666666",
+            "blocks": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#ffffff",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/contact-1366x765.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.7"
+          },
+          "mainTitle": "路线图",
+          "bottomTitle": "<span style=\"font-weight: normal;\"><i>路线图可能会有所变化，恕不另行通知</i></span>",
+          "mainSubtitle": "GETModer初始代币发行<br>",
+          "title1": "<span style=\"font-weight: normal;\">● 初期预售阶段 1 开始</span><br>",
+          "title2": "<span style=\"font-weight: normal;\">● 初期预售阶段 2开始</span>",
+          "title3": "<span style=\"font-weight: normal;\">● 初期预售阶段 3 开始</span>",
+          "title4": "<span style=\"font-weight: normal;\">● 初期预售完成</span>",
+          "title5": "<span style=\"font-weight: normal;\">&nbsp;- 跟进报告\n</span><div><span style=\"font-weight: normal;\">&nbsp;- 根据 初期预售的代币销售总量进行路线图更新</span></div>",
+          "title6": "<span style=\"font-weight: normal;\">- Release token sales report</span><br>",
+          "title7": "<span style=\"font-weight: normal;\">-Obtaining the payment licenses. Completion of developing the platform core. The official launch of the platform.</span>",
+          "title8": "<span style=\"font-weight: normal;\">&nbsp;- Installation of around-the-clock phone support system an established user voting system to provide users an exceptional trading experience</span><br><span style=\"font-weight: normal;\">- Revise Exchange Functionality</span><br><span style=\"font-weight: normal;\">- Token listed in minor cryptocurrency exchanges</span><br><span style=\"font-weight: normal;\">- Exchange server upgrade</span><br><span style=\"font-weight: normal;\">- Server Security upgrade</span><br><span style=\"font-weight: normal;\">- Set up operational office in Singapore</span>",
+          "title9": "<span style=\"font-weight: normal;\">- Developing mobile applications for iOS &amp; Android.</span><br><span style=\"font-weight: normal;\">- Token listed in medium exchanges</span>",
+          "title10": "<span style=\"font-weight: normal;\">-Licensing and entering the Asian market.</span>",
+          "title11": "<span style=\"font-weight: normal;\">- Office reopens</span><br><span style=\"font-weight: normal;\">- Update Roadmap</span><br><span style=\"font-weight: normal;\">- Apply GTMR token to be listed in major exchanges</span>",
+          "title12": "12. Awesome Reports",
+          "date1": "<span style=\"font-style: normal;\"><b>2018年4月15日</b></span><br>",
+          "date2": "<span style=\"font-style: normal;\"><b>2018年5月15日</b></span><br>",
+          "date3": "<span style=\"font-style: normal;\"><b>2018年6月15日</b></span><br>",
+          "date4": "<span style=\"font-style: normal;\"><b>2018年7月15日</b></span><br>",
+          "date5": "<span style=\"font-style: normal;\"><b>2018年7月20日</b></span><br>",
+          "date6": "<b>28 August 2018</b>",
+          "date7": "<b>28 September 2018</b>",
+          "date8": "<b>1 October 2018</b>",
+          "date9": "<b>1 November 2018</b>",
+          "date10": "<b>10 December 2018</b>",
+          "date11": "<b>10 Jan 2019</b>",
+          "date12": "12 December 2016",
+          "text1": "",
+          "text2": "",
+          "text3": "",
+          "text4": "",
+          "text5": "",
+          "text6": "",
+          "text7": "",
+          "text8": "",
+          "text9": "",
+          "text10": "",
+          "text11": "",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#666666"
+            },
+            ".mbr-section-subtitle": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "19px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            },
+            ".date P": {
+              "color": "#f7da64",
+              "font-size": "22px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "19px"
+            },
+            "SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            },
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            },
+            ".date SPAN": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "extFeatures13-6e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "inverse": true,
+            "stripedBars": false,
+            "progress1": "70",
+            "progress2": "15",
+            "progress3": "10",
+            "progress4": "5",
+            "imageSize": "36",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "资金分配（100％）",
+          "title1": "核心升级和发展",
+          "title2": "用户体验开发和客户服务",
+          "title3": "GETModer的人力资源和管理",
+          "title4": "营销",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/earth-img-991x991.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "size": 0,
+              "class": "mbr-iconfont mbr-iconfont-header2 ",
+              "color": "@primaryColor"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar5",
+          "_styles": {
+            "H2": {
+              "font-size": "25px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
+            }
+          },
+          "_anchor": "extProgressBar5-6f"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "tabs": "6",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg4-1400x710.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "title1": "<a role=\"button\" class=\"collapsed text-white\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-6l\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>白皮书</a>",
+          "title2": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-6l\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">正式团队成员</a>",
+          "title3": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-6l\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Github &nbsp;</a>",
+          "title4": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-6l\" aria-expanded=\"true\" aria-controls=\"collapseFour\">社交网络</a>",
+          "title5": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-6l\" aria-expanded=\"true\" aria-controls=\"collapseFive\">免责声明</a>",
+          "title6": "<a role=\"button\" class=\"text-white\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-6l\" aria-expanded=\"true\" aria-controls=\"collapseSix\">指定区域营销人员</a>",
+          "text1": "<p>仍处于发展阶段，将在GTMR代币销售完成25％后提供</p>",
+          "text2": "<p>*（完整的团队简介将在GTMR代币销售完成25％后在本网站上发\n</p><p>布。）</p><br><p><b>Arthur Smith </b>– CEO, Founder and Lead Developer\n</p><p>Former site developer and security analyst for a data center and cyber security company that was\n</p><p>based out of Texas. Expertise in website and software development, along with information security.\n</p><p>Blockchain researcher and analyst.</p><br><p>\n</p><p>\n</p><p><b>Buck Wisely</b>– COO, Co-Founder and Marketing Director Elias has worked a government job that specializes in cyber security, as well as software and web&nbsp;<span style=\"font-size: 1rem;\">development. He developed an interest in cryptocurrency trading 2012, and as a trader himself, he\n</span><span style=\"font-size: 1rem;\">keeps the users in mind and will do anything possible to better MIT Ecosystem.&nbsp;</span></p><br><p><span style=\"font-size: 1rem;\"><br></span></p><p>\n</p><p><b>Nonyang Ngam</b>– CFO, Co-Founder and Business Analyst Financial analyst based out of San Diego. Focused on jumpstarting the cryptocurrency revolution&nbsp;<span style=\"font-size: 1rem;\">that is beginning to take hold in our current financial systems.</span></p><p>Expertise in financial modeling.</p><br><p>\n</p><p>\n</p><p><b>Steve Howsley</b>– Lead of Technical Operations\n</p><p>IT Analyst based in Dublin, Ireland. Experience in server administration, information security, and&nbsp;<span style=\"font-size: 1rem;\">setting up servers with security in mind.</span></p>",
+          "text3": "<p>https://github.com/getmoder/IEO</p><br><p><span style=\"font-size: 1rem;\">智能合约可能会更新或更改以提高平台效率。</span><br></p>",
+          "text4": "<p>我们的营销团队将在完成Early Birds Private Sales Event后开始在各种社交网络上推广GETModer项目。同时，如果您有兴趣参加Early Birds活动，请与我们联系。</p>",
+          "text5": "<p>这个描述是获得贷款或进行投资的过程的概要。附带条款与条件。贷款不是由GETMOder直接完成的。 GETModer是一个平台。所有贷款都需要审查和批准。例如，一年10000美元贷款的年利率为\n</p><p>10.00％，将会有12笔预定的每月付款880美元。通过GETModer的\n</p><p>\n</p><p>年度百分比率（APR）有所不同。无法保证资格，并且需要有足够的流动资金来满足您的要求，并符合其他条件。借用抵押品会带来风险，可能并不适合您的需求。 GETModer不提供法律或税务建议。请咨询您的顾问。\n</p><p><br></p>",
+          "text6": "<p>Evolution 7\r</p><p>Engine Digital\r</p><p>Pancentric Digital\r</p><p>HTL\r</p><p>Mimosa Agency\r</p>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-6l",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;&nbsp;<a href=\"page4.html\">Terms and Conditions</a>&nbsp; &nbsp;<a href=\"page5.html\">Privacy Policy</a>&nbsp; &nbsp;<a href=\"index.html#extToggle1-24\">FAQ</a>&nbsp;&nbsp;<a href=\"page3.html\">Contact</a>&nbsp;<br>GETModer. Level 11, 157 Lambton Quay<br>Wellington 6011<br>New Zealand<br>Email: <a href=\"mailto:admin@getmoder.io\">admin@getmoder.io</a><br>Copyright (c) 2018 GETModer Foundation. All rights reserved",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-6h"
         }
       ]
     }
