@@ -337,7 +337,7 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080-nypfik1eg-f0008-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/corporate-grey-low-poly-geometric-motion-background-video-animation-hd-1920x1080_nypfik1eg__f0008-1920x1080.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#fff",
