@@ -37,7 +37,7 @@
     "siteUrl": "",
     "versionFirst": "4.4.1",
     "uniqCompNum": 239,
-    "versionPublish": "4.4.1",
+    "versionPublish": "4.6.7",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
@@ -380,7 +380,7 @@
             "paddingBottom": "2",
             "bgColor": "#1164f4"
           },
-          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH</div><div>\n</div><div>Minimum Contribution &nbsp;0.1 ETH</div><div>Maximum Contribution 20 ETH</div><div><br></div><div>◎ Please use <b><i>IMToken Wallet</i></b>, <b><i>TRUST Wallet</i></b> or <b><i>MyEtherWallet</i></b> to receive your token</div><div>◎ Due to unpredictable transaction traffic, please allow 24 hours for the token to be delivered to you ERC20 Wallet</div><div><br></div><div><b>Important:</b> <i><b>Please only use <a href=\"https://play.google.com/store/apps/details?id=org.consenlabs.token&amp;hl=en\" class=\"text-warning\">IMToken</a> or <a href=\"https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&amp;hl=en\" class=\"text-warning\">Trust </a>or <a href=\"https://www.myetherwallet.com/\" class=\"text-warning\">Myetherwallet</a> to send your contribution and to receive your GTMR Token</b></i></div><div>Make sure that you send Ether from the wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise, you will not be able to interact with the GTMR tokens received. Do not send ETH directly from an exchange to the contribution address.</div><p></p>",
+          "text": "<p>​Always check the URL and verify the contribution address before sending ETH.</p><p><span style=\"font-size: 1.07rem;\">​​</span></p><div>We only accept ETH</div><div>\n</div><div>Minimum Contribution &nbsp;0.1 ETH</div><div>Maximum Contribution 20 ETH</div><div><br></div><div>◎ Please use <b><i>IMToken Wallet</i></b>, <b><i>TRUST Wallet</i></b> or <b><i>MyEtherWallet</i></b> to receive your token</div><div>◎ Due to unpredictable transaction traffic, please allow 24 hours for the token to be delivered to your ERC20 Wallet</div><div><br></div><div><b>Important:</b> <i><b>Please only use <a href=\"https://play.google.com/store/apps/details?id=org.consenlabs.token&amp;hl=en\" class=\"text-warning\">IMToken</a> or <a href=\"https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&amp;hl=en\" class=\"text-warning\">Trust </a>or <a href=\"https://www.myetherwallet.com/\" class=\"text-warning\">Myetherwallet</a> to send your contribution and to receive your GTMR Token</b></i></div><div>Make sure that you send Ether from the wallet that supports ERC20 tokens or from an address for which you control the private key. Otherwise, you will not be able to interact with the GTMR tokens received. Do not send ETH directly from an exchange to the contribution address.</div><p></p>",
           "_tags": [
             "Theme"
           ],
