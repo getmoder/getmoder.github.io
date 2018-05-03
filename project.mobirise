@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GetModer Early Bird Events",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2673,7 +2673,7 @@
             "showForm": false,
             "showArrow": false,
             "imageSize": "19",
-            "countdown": "2018/04/15",
+            "countdown": "2018/05/14",
             "animText1": "",
             "animText2": "",
             "animText3": "",
@@ -2693,7 +2693,7 @@
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
-          "text": "<span style=\"font-style: normal;\"><b>GETModer&nbsp;(格摩特)</b></span><br><span style=\"font-style: normal;\"><b>Early Birds Event&nbsp;</b></span><b> (初期预售)</b><br><span style=\"font-style: normal;\"><b>代币首次發售</b></span><span style=\"font-style: normal;\"><b><br>从2018年4月15日开始\n<br>2018年7月15日结束\n<br>1 ETH = 6,000 GTMR代币\n<br>最低贡献 0.1 ETH (以太币)\n<br>最大贡献 20 ETH (以太币)<a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer&nbsp;(格摩特)</b></span><br><span style=\"font-style: normal;\"><b>Early Birds Event&nbsp;</b></span><b> (初期预售)</b><br><span style=\"font-style: normal;\"><b>代币首次發售</b></span><span style=\"font-style: normal;\"><b><br>从2018年4月15日开始\n<br>2018年7月15日结束\n<br>1 ETH = 6,000 GTMR代币\n<br>最低贡献 0.1 ETH (以太币)\n<br>最大贡献 20 ETH (以太币)</b></span><br><br><span style=\"font-style: normal;\">初期预售 1&nbsp;将结束于<b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
