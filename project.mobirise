@@ -281,7 +281,7 @@
             ".mbr-section-title SPAN": {
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "20px"
+              "font-size": "19px"
             },
             ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
               "font-size": "20px"
