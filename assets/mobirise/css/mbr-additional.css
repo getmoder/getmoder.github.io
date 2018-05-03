@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
+
 
 
 
@@ -785,6 +788,13 @@ h6,
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
   color: #ffffff;
+}
+#extProgressBar2-6o .mbr-section-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 21px;
+}
+#extProgressBar2-6o .mbr-section-title SPAN {
+  font-family: 'Lato', sans-serif;
 }
 #header3-5g .mbr-section-title,
 #header3-5g .mbr-section-subtitle {

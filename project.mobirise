@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 239,
+    "uniqCompNum": 241,
     "versionPublish": "4.6.7",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -243,6 +243,46 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-4h"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "stripedBars": false,
+            "progress1": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\">Early Birds 1<br>Total Supply: 150,000,000<br>Sold: 2,285,640<br>Balance: 147,714,360</span>",
+          "title1": "Percentage Sold",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar2",
+          "_anchor": "extProgressBar2-6o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "21px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
@@ -1221,7 +1261,7 @@
             "paddingBottom": 2,
             "columns": 3,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1552,7 +1592,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -3610,7 +3650,7 @@
             "paddingBottom": 2,
             "columns": 3,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#f7da64",
@@ -3944,7 +3984,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fff",
