@@ -794,7 +794,13 @@ h6,
   font-size: 21px;
 }
 #extProgressBar2-6o .mbr-section-title SPAN {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+#extProgressBar2-6o .progressbar-title p,
+#extProgressBar2-6o .progressbar-number,
+#extProgressBar2-6o .progressbar-number + span {
+  font-size: 20px;
 }
 #header3-5g .mbr-section-title,
 #header3-5g .mbr-section-subtitle {
