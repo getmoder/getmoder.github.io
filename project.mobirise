@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GetModer Early Bird Events",
-    "currentPage": "page8.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,7 +36,7 @@
     "cookiesAlert": "",
     "siteUrl": "",
     "versionFirst": "4.4.1",
-    "uniqCompNum": 241,
+    "uniqCompNum": 242,
     "versionPublish": "4.6.7",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -248,7 +248,7 @@
           "_params": {
             "showTitle": true,
             "stripedBars": false,
-            "progress1": "2",
+            "progress1": "3",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -264,7 +264,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\">Early Birds 1<br>Total Supply: 150,000,000<br>Sold: 2,285,640<br>Balance: 147,714,360</span>",
+          "title": "<span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 3,209,050\n</span></div><div><span style=\"font-weight: normal;\">Balance: 146,790,950</span></div>",
           "title1": "Percentage Sold",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -2762,6 +2762,49 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-5r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "stripedBars": false,
+            "progress1": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">以卖出: 3,209,050\n</span></div><div><span style=\"font-weight: normal;\">余额: 146,790,950</span></div>",
+          "title1": "已卖出巴仙率",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extProgressBar2",
+          "_anchor": "extProgressBar2-6p",
+          "_styles": {
+            ".mbr-section-title DIV": {
+              "font-size": "21px"
+            },
+            ".mbr-section-title": {
+              "font-size": "21px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "20px"
+            },
+            ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
+              "font-size": "20px"
+            }
+          }
         },
         {
           "_styles": {
