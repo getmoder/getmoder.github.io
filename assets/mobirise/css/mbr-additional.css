@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+
 
 
 
@@ -801,6 +803,9 @@ h6,
 #extProgressBar2-6o .progressbar-number,
 #extProgressBar2-6o .progressbar-number + span {
   font-size: 20px;
+}
+#extProgressBar2-6o .mbr-section-title DIV {
+  font-family: 'Droid Sans', sans-serif;
 }
 #header3-5g .mbr-section-title,
 #header3-5g .mbr-section-subtitle {

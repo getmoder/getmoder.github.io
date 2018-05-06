@@ -264,7 +264,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 3,329,050\n</span></div><div><span style=\"font-weight: normal;\">Balance: 146,670,950</span></div>",
+          "title": "<span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 3,898,870</span></div><div><span style=\"font-weight: normal;\">Balance: 146,101,130</span></div>",
           "title1": "Percentage Sold",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -285,6 +285,10 @@
             },
             ".progressbar-title p, .progressbar-number, .progressbar-number + span": {
               "font-size": "20px"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             }
           }
         },
@@ -2783,7 +2787,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">以卖出: 3,229,050\n</span></div><div><span style=\"font-weight: normal;\">余额: 146,670,950</span></div>",
+          "title": "<span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">以卖出: 3,898,870</span></div><div><span style=\"font-weight: normal; color: inherit;\">余额: 146,101,130</span></div>",
           "title1": "已卖出巴仙率",
           "alias": "mobirise3-blocks/components",
           "_tags": [
