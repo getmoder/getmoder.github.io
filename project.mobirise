@@ -264,7 +264,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 3,898,870</span></div><div><span style=\"font-weight: normal;\">Balance: 146,101,130</span></div>",
+          "title": "<span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 4,258,,870</span></div><div><span style=\"font-weight: normal;\">Balance: 145,741,130</span></div>",
           "title1": "Percentage Sold",
           "alias": "mobirise3-blocks/components",
           "_tags": [
@@ -303,6 +303,9 @@
             ".mbr-section-title DIV": {
               "color": "#232323",
               "font-size": "17px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -312,7 +315,7 @@
             "bgColor": "#fff"
           },
           "title": "<div>GETModer<span style=\"font-weight: normal;\"> is a blockchain-based decentralized platform:\n</span></div><div>a)<span style=\"font-weight: normal;\"> for borrowing and lending crypto assets in a safe and legally compliant way.&nbsp;\n</span></div><div>b)<span style=\"font-weight: normal;\"> integrated with Instant cryptocurrency Exchange<br></span><div><br></div>Early Birds 1 (Private Sales Event)<br><div><br>0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1</div></div>",
-          "meta": "(Only One Contribution Address)<br><br>◎ 1 ETH = 6,000 GTMR Token\n<br><br>◎ Minimum contribution 0.1 ETH\n<br><br>◎ Maximum Contribution of 20 ETH per-Ethereum-address, to ensure a fair share of this unique business opportunity for global participation<br>",
+          "meta": "(Only One Contribution Address)<br><br>◎ 1 ETH = 6,000 GTMR Token\n<br><br>◎ Minimum contribution 0.1 ETH\n<br><br>◎ Maximum Contribution of 20 ETH per-Ethereum-address for retail investor, to ensure a fair share of this unique business opportunity for global participation<br>◎ For initial contribution of more than 20 ETH, please contact us for information regarding <a href=\"page3.html\">Institutional Contribution</a>. Terms and conditions applied<br>◎ Exchange listing price was targeted at USD $0.12 pertoken as time of writing. However please be advised that the final listing price may be variable according to various external factors. One of the determining factors will be the current price of Ether at time of listing<br>",
           "_tags": [
             "Theme"
           ],
@@ -399,7 +402,7 @@
           },
           "title": "GETModer Early Birds Private Sales Event",
           "title1": "<a role=\"button\" class=\"text-black collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_17\" data-core=\"\" href=\"#collapseOne_17\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span><b>What is Early Birds Private Sales Event?</b></a>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion_17\" data-core=\"\" href=\"#collapseTwo_17\" aria-expanded=\"false\" aria-controls=\"collapseTwo\"><b>Details of the Early Birds Event</b></a>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_17\" data-core=\"\" href=\"#collapseTwo_17\" aria-expanded=\"true\" aria-controls=\"collapseTwo\"><b>Details of the Early Birds Event</b></a>",
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_17\" data-core=\"\" href=\"#collapseThree_17\" aria-expanded=\"true\" aria-controls=\"collapseThree\"><b>When does the Private Sales Event close? When will the Public Sales occur?</b></a>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion_17\" data-core=\"\" href=\"#collapseFour_17\" aria-expanded=\"true\" aria-controls=\"collapseFour\"><b>Roadmaps &amp; Team Profile&nbsp;</b></a>",
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
@@ -2787,7 +2790,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "<span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">以卖出: 3,898,870</span></div><div><span style=\"font-weight: normal; color: inherit;\">余额: 146,101,130</span></div>",
+          "title": "<span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">已</span><span style=\"font-weight: normal; color: inherit;\">卖出: 4,258,870</span></div><div><span style=\"font-weight: normal; color: inherit;\">余额: 145,741,130</span></div>",
           "title1": "已卖出巴仙率",
           "alias": "mobirise3-blocks/components",
           "_tags": [
