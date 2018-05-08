@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GetModer Early Bird Events",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -265,7 +265,7 @@
             "overlayOpacity": 0.75
           },
           "title": "<span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 4,738,,870</span></div><div><span style=\"font-weight: normal;\">Balance: 145,261,130</span></div>",
-          "title1": "Percentage Sold 3.15%",
+          "title1": "Percentage Sold (3.15%)",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -2791,7 +2791,7 @@
             "overlayOpacity": 0.75
           },
           "title": "<span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">已</span><span style=\"font-weight: normal; color: inherit;\">卖出: 4,738,870</span></div><div><span style=\"font-weight: normal; color: inherit;\">余额: 145,261,130</span></div>",
-          "title1": "已卖出巴仙率 3.15%",
+          "title1": "已卖出巴仙率 (3.15%)",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
