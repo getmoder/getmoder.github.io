@@ -154,7 +154,7 @@
             "showForm": false,
             "showArrow": false,
             "imageSize": "19",
-            "countdown": "2018/05/15",
+            "countdown": "2018/06/15",
             "animText1": "",
             "animText2": "",
             "animText3": "",
@@ -174,7 +174,7 @@
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
-          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Early Birds Private Sales</b></span><br><span style=\"font-style: normal;\"><b>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span><span style=\"font-style: normal;\"><b><br></b></span><span style=\"font-style: normal;\"><b>1 ETH = 6,000 GTMR Token</b></span><br><span style=\"font-style: normal;\"><b>Pre-ITO &amp; ITO: To be announced</b></span><br><span style=\"font-style: normal;\"><b>Minimum Contribution 0.1 ETH</b></span><br><span style=\"font-style: normal;\"><b>Maximum Contribution 20 ETH</b></span><br><span style=\"font-style: normal;\"><b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span><br><span style=\"font-style: normal;\"><b>Early Birds 1 ends in&nbsp;</b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer\n<br>Early Birds Private Sales</b></span><br><span style=\"font-style: normal;\"><b>Starting 15 April 2018\n<br>Ending 15 July 2018</b></span><br><span style=\"font-style: normal;\"><b>Pre-ITO &amp; ITO: To be announced</b></span><br><span style=\"font-style: normal;\"><b>Minimum Contribution 0.1 ETH</b></span><br><span style=\"font-style: normal;\"><b>Maximum Contribution 20 ETH</b></span><span style=\"font-style: normal;\"><b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span><br><span style=\"font-style: normal;\"><b>Early Birds 2</b></span><br><span style=\"font-style: normal;\"><b>1 ETH = 5,500 GTMR token</b></span><br><span style=\"font-style: normal;\"><b>Ending in</b></span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -272,7 +272,7 @@
           ],
           "_name": "extProgressBar2",
           "_anchor": "extProgressBar2-6o",
-          "_customHTML": "<section class=\"mbr-section extProgressBar\" data-rv-view=\"11\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1\">\n\n            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"82\"><span style=\"font-weight: normal;\">Early Birds 1\n</span><div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 6,058,870</span></div><div><span style=\"font-weight: normal;\">Balance: 143,941,130</span></div></h3>\n\n                <div class=\"progress1\">\n                    <div class=\"title-wrap\">\n                        <div class=\"progressbar-title\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"83\">Percentage Sold (4.04%)</p>\n                        </div>\n                        <div class=\"progressbar-number\">4.04</div>\n                        <span>%</span>\n                    </div>\n                    <progress class=\"progress progress-primary\" max=\"100\" value=\"3\">\n                    </progress>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section extProgressBar\" data-rv-view=\"11\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1\">\n\n            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"82\">Early Birds 2<div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 6,058,870</span></div><div><span style=\"font-weight: normal;\">Balance: 143,941,130</span></div></h3>\n\n                <div class=\"progress1\">\n                    <div class=\"title-wrap\">\n                        <div class=\"progressbar-title\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"83\">Percentage Sold (4.04%)</p>\n                        </div>\n                        <div class=\"progressbar-number\">4.04</div>\n                        <span>%</span>\n                    </div>\n                    <progress class=\"progress progress-primary\" max=\"100\" value=\"3\">\n                    </progress>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n.mbr-section-title {\n  font-family: 'Oxygen', sans-serif;\n  font-size: 21px;\n}\n.mbr-section-title SPAN {\n  font-family: 'Raleway', sans-serif;\n  font-size: 19px;\n}\n.progressbar-title p, .progressbar-number, .progressbar-number + span {\n  font-size: 20px;\n}\n.mbr-section-title DIV {\n  font-family: 'Droid Sans', sans-serif;\n}\n",
@@ -300,8 +300,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "<div>GETModer<span style=\"font-weight: normal;\"> is a blockchain-based decentralized platform:\n</span></div><div>a)<span style=\"font-weight: normal;\"> for borrowing and lending crypto assets in a safe and legally compliant way.&nbsp;\n</span></div><div>b)<span style=\"font-weight: normal;\"> integrated with Instant cryptocurrency Exchange<br></span><div><br></div>Early Birds 1 (Private Sales Event)<br><div><br>0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1</div></div>",
-          "meta": "(Only One Contribution Address)<br><br>◎ 1 ETH = 6,000 GTMR Token\n<br><br>◎ Minimum contribution 0.1 ETH\n<br><br>◎ Maximum Contribution of 20 ETH per-Ethereum-address for retail investor, to ensure a fair share of this unique business opportunity for global participation<br><br>◎ For initial contribution of more than 20 ETH, please contact us for information regarding <a href=\"page3.html\">Institutional Contribution</a>. Terms and conditions applied<br><br>◎ Exchange listing price was targeted at USD $0.12 pertoken as time of writing. However please be advised that the final listing price may be variable according to various external factors. One of the determining factors will be the current price of Ether at time of listing<br>",
+          "title": "<div>GETModer<span style=\"font-weight: normal;\"> is a blockchain-based decentralized platform:\n</span></div><div>a)<span style=\"font-weight: normal;\"> for borrowing and lending crypto assets in a safe and legally compliant way.&nbsp;\n</span></div><div>b)<span style=\"font-weight: normal;\"> integrated with Instant cryptocurrency Exchange<br></span><div><br></div>Early Birds 2 (Private Sales Event)<br><div><br>0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1</div></div>",
+          "meta": "(Only One Contribution Address)<br><br>◎ 1 ETH = 5,500 GTMR Token\n<br><br>◎ Minimum contribution 0.1 ETH\n<br><br>◎ Maximum Contribution of 20 ETH per-Ethereum-address for retail investor, to ensure a fair share of this unique business opportunity for global participation<br><br>◎ For initial contribution of more than 20 ETH, please contact us for information regarding <a href=\"page3.html\">Institutional Contribution</a>. Terms and conditions applied<br><br>◎ Exchange listing price was targeted at USD $0.12 pertoken as time of writing. However please be advised that the final listing price may be variable according to various external factors. One of the determining factors will be the current price of Ether at time of listing<br>",
           "_tags": [
             "Theme"
           ],
@@ -335,7 +335,7 @@
           "info2": "",
           "info3": "",
           "info4": "",
-          "table": "<thead><tr><th>Stage</th><th>1 ETH</th><th>Date</th></tr></thead><tbody><tr><td><b>Early Birds 1</b></td><td><b>6,000 token</b></td><td><b>15 April-14 May</b></td></tr><tr><td>Early Birds 2</td><td>5,500 token</td><td>15 May-14 June</td></tr><tr><td>Early Birds 3</td><td>5,000 token</td><td>15 June-15 July</td></tr><tr><td>Pre ITO</td><td>4,000</td><td>To be announced</td></tr><tr><td>ITO</td><td>3,000</td><td>To be announced</td></tr></tbody>",
+          "table": "<thead><tr><th>Stage</th><th>1 ETH</th><th>Date</th></tr></thead><tbody><tr><td>Early Birds 1</td><td>6,000 token</td><td>15 April-14 May</td></tr><tr><td><b>Early Birds 2</b></td><td><b>5,500 token</b></td><td><b>15 May-14 June</b></td></tr><tr><td>Early Birds 3</td><td>5,000 token</td><td>15 June-15 July</td></tr><tr><td>Pre ITO</td><td>4,000</td><td>To be announced</td></tr><tr><td>ITO</td><td>3,000</td><td>To be announced</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
