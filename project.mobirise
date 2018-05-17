@@ -272,7 +272,7 @@
           ],
           "_name": "extProgressBar2",
           "_anchor": "extProgressBar2-6o",
-          "_customHTML": "<section class=\"mbr-section extProgressBar\" data-rv-view=\"11\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1\">\n\n            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"32\">Early Birds 2<div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 6,418,870</span></div><div><span style=\"font-weight: normal;\">Balance: 143,581,130</span></div></h3>\n\n                <div class=\"progress1\">\n                    <div class=\"title-wrap\">\n                        <div class=\"progressbar-title\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"33\">Percentage Sold (4.28%)</p>\n                        </div>\n                        <div class=\"progressbar-number\">4.28</div>\n                        <span>%</span>\n                    </div>\n                    <progress class=\"progress progress-primary\" max=\"100\" value=\"3\">\n                    </progress>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section extProgressBar\" data-rv-view=\"11\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1\">\n\n            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"36\">Early Birds 2<div><span style=\"font-weight: normal;\">Total Supply: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">Sold: 6,778,870</span></div><div><span style=\"font-weight: normal;\">Balance: 143,221,130</span></div></h3>\n\n                <div class=\"progress1\">\n                    <div class=\"title-wrap\">\n                        <div class=\"progressbar-title\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"37\">Percentage Sold (4.52%)</p>\n                        </div>\n                        <div class=\"progressbar-number\">4.52</div>\n                        <span>%</span>\n                    </div>\n                    <progress class=\"progress progress-primary\" max=\"100\" value=\"3\">\n                    </progress>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);\n.mbr-section-title {\n  font-family: 'Oxygen', sans-serif;\n  font-size: 21px;\n}\n.mbr-section-title SPAN {\n  font-family: 'Raleway', sans-serif;\n  font-size: 19px;\n}\n.progressbar-title p, .progressbar-number, .progressbar-number + span {\n  font-size: 20px;\n}\n.mbr-section-title DIV {\n  font-family: 'Droid Sans', sans-serif;\n}\n",
@@ -335,7 +335,7 @@
           "info2": "",
           "info3": "",
           "info4": "",
-          "table": "<thead><tr><th>Stage</th><th>1 ETH</th><th>Date</th></tr></thead><tbody><tr><td>Early Birds 1</td><td>6,000 token</td><td>15 April-14 May</td></tr><tr><td><b>Early Birds 2</b></td><td><b>5,500 token</b></td><td><b>15 May-14 June</b></td></tr><tr><td>Early Birds 3</td><td>5,000 token</td><td>15 June-15 July</td></tr><tr><td>Pre ITO</td><td>4,000</td><td>To be announced</td></tr><tr><td>ITO</td><td>3,000</td><td>To be announced</td></tr></tbody>",
+          "table": "<thead><tr><th>Stage</th><th>1 ETH</th><th>Date</th></tr></thead><tbody><tr><td>Early Birds 1</td><td>6,000 token</td><td>15 April-14 May</td></tr><tr><td><b>*Early Birds 2</b></td><td><b>5,500 token</b></td><td><b>15 May-14 June</b></td></tr><tr><td>Early Birds 3</td><td>5,000 token</td><td>15 June-15 July</td></tr><tr><td>Pre ITO</td><td>4,000</td><td>To be announced</td></tr><tr><td>ITO</td><td>3,000</td><td>To be announced</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -2666,7 +2666,7 @@
             "showForm": false,
             "showArrow": false,
             "imageSize": "19",
-            "countdown": "2018/05/15",
+            "countdown": "2018/06/15",
             "animText1": "",
             "animText2": "",
             "animText3": "",
@@ -2686,7 +2686,7 @@
           },
           "title": "OUR ",
           "title2": "IS COMING SOON!",
-          "text": "<span style=\"font-style: normal;\"><b>GETModer&nbsp;(格摩特)</b></span><br><span style=\"font-style: normal;\"><b>Early Birds Event&nbsp;</b></span><b> (初期预售)</b><br><span style=\"font-style: normal;\"><b>代币首次發售</b></span><span style=\"font-style: normal;\"><b><br>从2018年4月15日开始\n<br>2018年7月15日结束\n<br>1 ETH = 6,000 GTMR代币\n<br>最低贡献 0.1 ETH (以太币)\n<br>最大贡献 20 ETH (以太币)</b></span><br><br><span style=\"font-style: normal;\">初期预售 1&nbsp;将结束于<b><a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
+          "text": "<span style=\"font-style: normal;\"><b>GETModer&nbsp;(格摩特)</b></span><br><span style=\"font-style: normal;\"><b>Early Birds Event&nbsp;</b></span><b> (初期预售)</b><br><span style=\"font-style: normal;\"><b>代币首次發售</b></span><span style=\"font-style: normal;\"><b><br>从2018年4月15日开始\n<br>2018年7月15日结束\n<br>最低贡献 0.1 ETH (以太币)\n<br>最大贡献 20 ETH (以太币)</b></span><br><br><b><span style=\"font-style: normal;\">初期预售 2<br>1 ETH = 5,500 GTMR代币&nbsp;</span><br></b><span style=\"font-style: normal;\"><b>将结束于<a href=\"index.html#extMsg-box4-1n\" class=\"text-warning\"><br></a></b></span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "media": {
             "image": {
@@ -2784,7 +2784,7 @@
           ],
           "_name": "extProgressBar2",
           "_anchor": "extProgressBar2-6p",
-          "_customHTML": "<section class=\"mbr-section extProgressBar\" data-rv-view=\"96\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1\">\n\n            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"65\"><span style=\"font-weight: normal;\">初期预售 1\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">已</span><span style=\"font-weight: normal; color: inherit;\">卖出: 6,418,870</span></div><div><span style=\"font-weight: normal; color: inherit;\">余额: 143,581,130</span></div></h3>\n\n                <div class=\"progress1\">\n                    <div class=\"title-wrap\">\n                        <div class=\"progressbar-title\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"66\">已卖出巴仙率 (4.28%)</p>\n                        </div>\n                        <div class=\"progressbar-number\">4.28</div>\n                        <span>%</span>\n                    </div>\n                    <progress class=\"progress progress-primary\" max=\"100\" value=\"3\">\n                    </progress>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section extProgressBar\" data-rv-view=\"96\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-10 col-md-offset-1\">\n\n            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"73\"><span style=\"font-weight: normal;\">初期预售 2\n</span><div><span style=\"font-weight: normal;\">总共应量: 150,000,000\n</span></div><div><span style=\"font-weight: normal;\">已</span><span style=\"font-weight: normal; color: inherit;\">卖出: 6,778,870</span></div><div><span style=\"font-weight: normal; color: inherit;\">余额: 143,221,130</span></div></h3>\n\n                <div class=\"progress1\">\n                    <div class=\"title-wrap\">\n                        <div class=\"progressbar-title\">\n                            <p class=\"mbr-editable-content\" code-editable-id=\"74\">已卖出巴仙率 (4.52%)</p>\n                        </div>\n                        <div class=\"progressbar-number\">4.52</div>\n                        <span>%</span>\n                    </div>\n                    <progress class=\"progress progress-primary\" max=\"100\" value=\"3\">\n                    </progress>\n                </div>\n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title DIV {\n  font-size: 21px;\n}\n.mbr-section-title {\n  font-size: 21px;\n}\n.mbr-section-title SPAN {\n  font-size: 20px;\n}\n.progressbar-title p, .progressbar-number, .progressbar-number + span {\n  font-size: 20px;\n}\n",
@@ -2815,7 +2815,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "title": "<span style=\"font-size: 17px; font-weight: normal;\">GETModer (格摩特)是基于区块链的分散式(去中心化)平台：</span><br><br><span style=\"font-size: 17px; font-weight: normal;\">\n</span><div><span style=\"font-size: 17px; font-weight: normal;\">a）以安全合法的方式借入和借出加密数字货币资产。\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">b）与 Instant cryptocurrency Exchange (快速加密数字货币转换/兑换站/中心) 整合为一个平台\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">初期预售优惠配套1（私人销售活动）</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">\n</span></div><div><span style=\"font-size: 17px;\">0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1</span></div><br><div><span style=\"font-size: 17px;\">\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">（只有一个贡献地址）\n</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 1 ETH (以太币) = 6,000 GTMR代币\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 最小贡献0.1 ETH (以太币)</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">\n</span></div><span style=\"font-weight: normal;\">◎ 最大贡献 20 ETH (以太币)<br></span><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 每个零售以太坊地址以20个ETH(以太币)为最大贡献，以确保公平分享这个独特的全球参与商业机会</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 对于第一次贡献超过20个ETH的，请联系我们有关机构贡献的信息。需符合条规</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ &nbsp;交易所挂牌目标价定为0.12美元，是写作时所定。 但请注意，最终上市价格可能有异于各种外来因素。 其中一个决定性因素是当前以太币在上市时的价格</span></div>",
+          "title": "<span style=\"font-size: 17px; font-weight: normal;\">GETModer (格摩特)是基于区块链的分散式(去中心化)平台：</span><br><br><span style=\"font-size: 17px; font-weight: normal;\">\n</span><div><span style=\"font-size: 17px; font-weight: normal;\">a）以安全合法的方式借入和借出加密数字货币资产。\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">b）与 Instant cryptocurrency Exchange (快速加密数字货币转换/兑换站/中心) 整合为一个平台\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">初期预售优惠配套1（私人销售活动）</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">\n</span></div><div><span style=\"font-size: 17px;\">0x36C12Ee2B32e2596DD77B2E252f7A1539D9de4B1</span></div><br><div><span style=\"font-size: 17px;\">\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\">（只有一个贡献地址）\n</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 1 ETH (以太币) = 5,500 GTMR代币\n</span></div><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 最小贡献0.1 ETH (以太币)</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">\n</span></div><span style=\"font-weight: normal;\">◎ 最大贡献 20 ETH (以太币)<br></span><div><span style=\"font-size: 17px; font-weight: normal;\"><br></span></div><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 每个零售以太坊地址以20个ETH(以太币)为最大贡献，以确保公平分享这个独特的全球参与商业机会</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ 对于第一次贡献超过20个ETH的，请联系我们有关机构贡献的信息。需符合条规</span></div><br><div><span style=\"font-size: 17px; font-weight: normal;\">◎ &nbsp;交易所挂牌目标价定为0.12美元，是写作时所定。 但请注意，最终上市价格可能有异于各种外来因素。 其中一个决定性因素是当前以太币在上市时的价格</span></div>",
           "meta": "",
           "_tags": [
             "Theme"
@@ -2850,7 +2850,7 @@
           "info2": "",
           "info3": "",
           "info4": "",
-          "table": "<thead><tr><th>阶段</th><th>1 以太币 =&nbsp;</th><th>日期</th></tr></thead><tbody><tr><td><b>初期预售 1</b></td><td><b>6,000 代币</b></td><td><font color=\"#f7da64\"><b>4月15日至5月14日</b></font></td></tr><tr><td>初期预售 2</td><td>5,500 代币</td><td>5月15日至6月14日</td></tr><tr><td>初期预售 3</td><td>5,000 代币</td><td>6月15日至7月15日</td></tr><tr><td>Pre ITO</td><td>4000 代币</td><td>将会公布</td></tr><tr><td>ITO</td><td>3000 代币</td><td>将会公布</td></tr></tbody>",
+          "table": "<thead><tr><th>阶段</th><th>1 以太币 =&nbsp;</th><th>日期</th></tr></thead><tbody><tr><td>初期预售 1</td><td>6,000 代币</td><td>4月15日至5月14日</td></tr><tr><td><b>*初期预售 2</b></td><td><b>5,500 代币</b></td><td><b>5月15日至6月14日</b></td></tr><tr><td>初期预售 3</td><td>5,000 代币</td><td>6月15日至7月15日</td></tr><tr><td>Pre ITO</td><td>4000 代币</td><td>将会公布</td></tr><tr><td>ITO</td><td>3000 代币</td><td>将会公布</td></tr></tbody>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -2868,11 +2868,11 @@
               "font-size": "17px"
             },
             "TD": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "font-size": "17px"
             },
             "B": {
-              "color": "#f7da64",
+              "color": "#cccccc",
               "font-size": "17px"
             },
             ".mbr-section-title SPAN": {
