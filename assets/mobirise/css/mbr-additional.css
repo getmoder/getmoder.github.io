@@ -1027,6 +1027,16 @@ h6,
 #extTabs1-m H3 {
   color: #ffffff;
 }
+#features7-71 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-71 .iconbox {
+  background-color: #f3c649;
+  border-color: #f3c649;
+}
+#features7-71 H4 {
+  color: #ffffff;
+}
 #footer1-q P {
   font-size: 14px;
 }
@@ -1736,4 +1746,14 @@ h6,
 }
 #footer1-6h P {
   font-size: 14px;
+}
+#features7-72 .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-72 .iconbox {
+  background-color: #f3c649;
+  border-color: #f3c649;
+}
+#features7-72 H4 {
+  color: #ffffff;
 }
